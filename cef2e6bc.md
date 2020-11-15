@@ -6,7 +6,7 @@ permalink: /episodes/cef2e6bc/
 
 # 60: Character Properties
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/ec245c2f-8cc8-45ee-ac90-c66da8811a30" width="100%" data-cy="latest-episode" />
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/ec245c2f-8cc8-45ee-ac90-c66da8811a30" width="100%" />
 
 Forums:
  

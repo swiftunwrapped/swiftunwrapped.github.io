@@ -6,7 +6,7 @@ permalink: /episodes/c7b4b5ed/
 
 # 15: What's New in Swift 4 (Part 2)
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/401a9081-0886-4643-a347-2f2a20f6b384" width="100%" data-cy="latest-episode" />
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/401a9081-0886-4643-a347-2f2a20f6b384" width="100%" />
 
 ### What should you expect with Swift 4? 
 

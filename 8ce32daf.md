@@ -6,7 +6,7 @@ permalink: /episodes/8ce32daf/
 
 # 35: Performance Profiling on Linux
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/da4542a6-eb11-4838-b2e6-aec756244292" width="100%" data-cy="latest-episode" />
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/da4542a6-eb11-4838-b2e6-aec756244292" width="100%" />
 
 - JP's FrenchKit talk on "Performance Profiling Swift on Linux":
   - Video: https://youtu.be/TWeLLTFjqXg

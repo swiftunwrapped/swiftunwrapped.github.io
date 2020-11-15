@@ -1,0 +1,18 @@
+layout: page
+title: "28: Refactoring Engine "
+permalink: /episodes/9d6eaee7/
+
+# 28: Refactoring Engine 
+
+* Swift.org blog post on Swift Local Refactoring: https://swift.org/blog/swift-local-refactoring/
+* Clang-based refactoring engine: http://lists.llvm.org/pipermail/cfe-dev/2017-June/054286.html
+* Adding indexing support to Clangd: http://lists.llvm.org/pipermail/cfe-dev/2017-May/053869.html
+* Small PR demonstrating implementing a refactoring action to simplify long number literal format:
+ 040a84c3.md 0bd2405c.md 107053e7.md 1DMLbJg5.md 1f9301c7.md 20d4b31e.md 22a6c652.md 22af29a8.md 22df931e.md 23334b91.md 23be3a4e.md 24e5304c.md 254085cb.md 2b098627.md 2cdb62f6.md 30f2577f.md 324c2e91.md 339bc516.md 35316396.md 3fb2a021.md 3fdcca35.md 41e38050.md 4367aeeb.md 451cc858.md 502c0857.md 5375fa65.md 5b33cc85.md 5ebe2061.md 60637761.md 620464c0.md 62272338.md 6d603539.md 7748396d.md 791e3bc9.md 839af3db.md 852dd010.md 8ce32daf.md 8f07264c.md 901ba4e4.md 9337cd60.md 96f9f099.md 983844da.md 99a0c58b.md 9d6eaee7.md DasaMAiV.md EDeUfIq2.md Gemfile Gemfile.lock LICENSE Makefile README.md _config.yml a8736bc8.md aC5JVWoo.md aef515ab.md b452f159.md b850afa9.md c81902b1.md cef2e6bc.md d21a251a.md d4af5de6.md d725b7da.md d80e524d.md e3bbe72b.md e682713a.md e6f9d8e6.md e7074e80.md f57eb2a3.md fxMk4ipF.md img index.md scripts https://github.com/apple/swift/pull/11711
+ 040a84c3.md 0bd2405c.md 107053e7.md 1DMLbJg5.md 1f9301c7.md 20d4b31e.md 22a6c652.md 22af29a8.md 22df931e.md 23334b91.md 23be3a4e.md 24e5304c.md 254085cb.md 2b098627.md 2cdb62f6.md 30f2577f.md 324c2e91.md 339bc516.md 35316396.md 3fb2a021.md 3fdcca35.md 41e38050.md 4367aeeb.md 451cc858.md 502c0857.md 5375fa65.md 5b33cc85.md 5ebe2061.md 60637761.md 620464c0.md 62272338.md 6d603539.md 7748396d.md 791e3bc9.md 839af3db.md 852dd010.md 8ce32daf.md 8f07264c.md 901ba4e4.md 9337cd60.md 96f9f099.md 983844da.md 99a0c58b.md 9d6eaee7.md DasaMAiV.md EDeUfIq2.md Gemfile Gemfile.lock LICENSE Makefile README.md _config.yml a8736bc8.md aC5JVWoo.md aef515ab.md b452f159.md b850afa9.md c81902b1.md cef2e6bc.md d21a251a.md d4af5de6.md d725b7da.md d80e524d.md e3bbe72b.md e682713a.md e6f9d8e6.md e7074e80.md f57eb2a3.md fxMk4ipF.md img index.md scripts SR-5746: https://bugs.swift.org/browse/SR-5746
+* All Swift refactoring actions are defined in https://github.com/apple/swift/blob/master/include/swift/IDE/RefactoringKinds.def
+* Ideas for potential refactoring transformations: https://bugs.swift.org/issues/?jql=labels%3DStarterProposal%20AND%20labels%3DRefactoring%20AND%20resolution%3DUnresolved
+
+Leave a review on iTunes and join http://spectrum.chat/specfm/swift-unwrapped
+
+Thanks to BuddyBuild for sponsoring this episode: https://www.buddybuild.com/?utm_source=podcast&utm_medium=banner&utm_campaign=swift_unwrapped&utm_term=swift%20unwrapped

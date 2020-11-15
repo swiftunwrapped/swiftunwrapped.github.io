@@ -1,0 +1,20 @@
+layout: page
+title: "60: Character Properties"
+permalink: /episodes/cef2e6bc/
+
+# 60: Character Properties
+
+Forums:
+ 
+- https://forums.swift.org/t/pitch-character-and-string-properties/11620
+- https://forums.swift.org/t/adding-unicode-properties-to-unicodescalar-character/9310
+
+Pull requests: 
+
+- https://github.com/apple/swift/pull/15880
+- https://github.com/apple/swift-evolution/pull/847
+
+Proposals:
+
+- https://gist.github.com/milseman/c8c50ed0eef0a21181b0d4eeedbad819
+- https://github.com/apple/swift-evolution/blob/master/proposals/0211-unicode-scalar-properties.md

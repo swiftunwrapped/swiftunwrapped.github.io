@@ -22,6 +22,17 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
 
   echo "* [$(_jq '.title')](https://spec.fm/podcasts/swift-unwrapped/$(_jq '.token'))" >> index.md
 
+  episode_detail="$(curl \
+    -H 'Accept: application/json' \
+    -H "Authorization: Bearer ${SIMPLECAST_TOKEN}" \
+    --location \
+    --request GET \
+    https://api.simplecast.com/episodes/$(_jq '.id'))"
+
+  _jq2() {
+    echo ${episode_detail} | jq -r ${1}
+  }
+
   episode_file="$(_jq '.token').md"
   echo "layout: page" > "$episode_file"
   echo "title: \"$(_jq '.title')\"" >> "$episode_file"
@@ -29,5 +40,5 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   echo "" >> "$episode_file"
   echo "# $(_jq '.title')" >> "$episode_file"
   echo "" >> "$episode_file"
-  echo "$(_jq '.long_description')" >> "$episode_file"
+  echo "$(_jq2 '.long_description')" >> "$episode_file"
 done

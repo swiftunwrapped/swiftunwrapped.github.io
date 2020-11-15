@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "15: What's New in Swift 4 (Part 2)"
 permalink: /episodes/c7b4b5ed/
 ---
@@ -8,7 +8,7 @@ permalink: /episodes/c7b4b5ed/
 
 <iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/401a9081-0886-4643-a347-2f2a20f6b384" width="100%"></iframe>
 
-### What should you expect with Swift 4? 
+### What should you expect with Swift 4?
 
 Some great new features and improvements.
 

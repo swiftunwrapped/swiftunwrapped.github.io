@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "88: Swift 5.3"
 permalink: /episodes/DasaMAiV/
 ---

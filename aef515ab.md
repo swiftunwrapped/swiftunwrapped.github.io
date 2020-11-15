@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "49: Swift Protocol Wishlist"
 permalink: /episodes/aef515ab/
 ---

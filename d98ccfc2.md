@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "25: ABI Stability –  Calling Convention, Runtime and Standard Library"
 permalink: /episodes/d98ccfc2/
 ---

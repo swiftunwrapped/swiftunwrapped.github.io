@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "87: Package Registries and Indexes"
 permalink: /episodes/aC5JVWoo/
 ---

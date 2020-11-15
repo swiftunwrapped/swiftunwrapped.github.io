@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "24: ABI Stability - Mangling"
 permalink: /episodes/fdbc74ca/
 ---

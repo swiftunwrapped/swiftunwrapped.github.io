@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "86: Tuples"
 permalink: /episodes/fxMk4ipF/
 ---

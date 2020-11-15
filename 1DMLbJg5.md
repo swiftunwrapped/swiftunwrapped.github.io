@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "89: Implementing the Swift Runtime in Swift, with Jordan Rose"
 permalink: /episodes/1DMLbJg5/
 ---

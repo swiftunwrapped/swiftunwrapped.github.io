@@ -9,11 +9,11 @@ permalink: /episodes/cef2e6bc/
 <iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/ec245c2f-8cc8-45ee-ac90-c66da8811a30" width="100%"></iframe>
 
 Forums:
-
+ 
 - https://forums.swift.org/t/pitch-character-and-string-properties/11620
 - https://forums.swift.org/t/adding-unicode-properties-to-unicodescalar-character/9310
 
-Pull requests:
+Pull requests: 
 
 - https://github.com/apple/swift/pull/15880
 - https://github.com/apple/swift-evolution/pull/847

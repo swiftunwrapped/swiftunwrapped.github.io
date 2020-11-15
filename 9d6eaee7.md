@@ -4,7 +4,7 @@ title: "28: Refactoring Engine "
 permalink: /episodes/9d6eaee7/
 ---
 
-# 28: Refactoring Engine
+# 28: Refactoring Engine 
 
 <iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/942f3e25-a7d6-4dbf-8b62-3326253070ba" width="100%"></iframe>
 

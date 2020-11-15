@@ -20,19 +20,19 @@ permalink: /episodes/e3bbe72b/
 
 ### [Sentry.io](https://www.sentry.io/for/swift)
 
-Sentry tells you about errors in your code before your customers have a chance to encounter them.
+Sentry tells you about errors in your code before your customers have a chance to encounter them. 
 
-With Sentry, you’ll see exactly how many users have been impacted by a bug, the stack trace, the commit that the error was released as part of, the engineer who wrote the line of code that is currently busted, and a lot more.
+With Sentry, you’ll see exactly how many users have been impacted by a bug, the stack trace, the commit that the error was released as part of, the engineer who wrote the line of code that is currently busted, and a lot more. 
 
 Give it a try and let them know we sent you at https://www.sentry.io/for/swift
 
 ### [Clubhouse.io](https://clubhouse.io/swiftunwrapped)
 
-Clubhouse is the first project management platform for software development that brings everyone together so that teams can focus on what matters – creating products their customers love.
+Clubhouse is the first project management platform for software development that brings everyone together so that teams can focus on what matters – creating products their customers love. 
 
-With a simple API and robust set of integrations, Clubhouse seamlessly integrates with the tools you use every day, getting out of your way so that you can deliver quality software on time.
+With a simple API and robust set of integrations, Clubhouse seamlessly integrates with the tools you use every day, getting out of your way so that you can deliver quality software on time. 
 
-Listeners of Swift Unwrapped can sign up for **two free months** of Clubhouse by visiting https://clubhouse.io/swiftunwrapped
+Listeners of Swift Unwrapped can sign up for **two free months** of Clubhouse by visiting https://clubhouse.io/swiftunwrapped 
 
 ## Get in Touch
 

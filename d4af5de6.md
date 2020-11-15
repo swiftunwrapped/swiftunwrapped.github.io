@@ -6,6 +6,8 @@ permalink: /episodes/d4af5de6/
 
 # 42: Conditional Conformance
 
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/7ac06d5e-4a1d-4a81-a03d-b486d4b40223" width="100%" data-cy="latest-episode" />
+
 Swift 4.1 will include support for conditional protocol conformance, and we're excited to use it!
 
 * https://swift.org/blog/conditional-conformance/

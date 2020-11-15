@@ -6,6 +6,8 @@ permalink: /episodes/3fdcca35/
 
 # 76: Property Wrappers
 
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/234e904c-9511-47ee-9fa8-658b58c60878" width="100%" data-cy="latest-episode" />
+
 * [Proposal SE-0258](https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md)
 * Review threads:
   * [First review](https://forums.swift.org/t/se-0258-property-delegates/23139)

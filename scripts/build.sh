@@ -42,5 +42,7 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   echo "" >> "$episode_file"
   echo "# $(_jq '.title')" >> "$episode_file"
   echo "" >> "$episode_file"
+  echo "<iframe frameBorder=\"0\" height=\"200px\" scrolling=\"no\" seamless src=\"https://player.simplecast.com/$(_jq '.id')\" width=\"100%\" data-cy=\"latest-episode\" />" >> $episode_file
+  echo "" >> "$episode_file"
   echo "$(_jq2 '.long_description')" >> "$episode_file"
 done

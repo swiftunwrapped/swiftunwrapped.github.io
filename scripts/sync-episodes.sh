@@ -10,7 +10,7 @@ readonly episodes="$(curl \
   'https://api.simplecast.com/podcasts/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes?limit=200')"
 
 cat > index.md <<- EOF
-*{{ site.description }}*
+# Episodes
 
 EOF
 
@@ -37,6 +37,7 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   echo "---" > "$episode_file"
   echo "layout: default" >> "$episode_file"
   echo "title: \"$(_jq '.title')\"" >> "$episode_file"
+  echo "date: \"$(_jq '.published_at')\"" >> "$episode_file"
   echo "permalink: /episodes/$(_jq '.token')/" >> "$episode_file"
   echo "---" >> "$episode_file"
   echo "" >> "$episode_file"

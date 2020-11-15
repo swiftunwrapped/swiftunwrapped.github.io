@@ -23,3 +23,7 @@ incr:
 .PHONY: future
 future:
 	bundle exec jekyll build --watch --future
+
+.PHONY: serve
+serve:
+	bundle exec jekyll serve --watch --incremental

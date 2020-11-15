@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* hides the "view on github" element */
+.view {
+    visibility: hidden;
+}

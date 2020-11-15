@@ -1,6 +1,8 @@
+---
 layout: page
 title: "35: Performance Profiling on Linux"
 permalink: /episodes/8ce32daf/
+---
 
 # 35: Performance Profiling on Linux
 

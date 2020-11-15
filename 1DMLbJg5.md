@@ -1,6 +1,8 @@
+---
 layout: page
 title: "89: Implementing the Swift Runtime in Swift, with Jordan Rose"
 permalink: /episodes/1DMLbJg5/
+---
 
 # 89: Implementing the Swift Runtime in Swift, with Jordan Rose
 

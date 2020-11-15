@@ -1,6 +1,8 @@
+---
 layout: page
 title: "42: Conditional Conformance"
 permalink: /episodes/d4af5de6/
+---
 
 # 42: Conditional Conformance
 

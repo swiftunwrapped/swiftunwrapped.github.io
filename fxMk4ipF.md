@@ -1,6 +1,8 @@
+---
 layout: page
 title: "86: Tuples"
 permalink: /episodes/fxMk4ipF/
+---
 
 # 86: Tuples
 

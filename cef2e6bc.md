@@ -1,6 +1,8 @@
+---
 layout: page
 title: "60: Character Properties"
 permalink: /episodes/cef2e6bc/
+---
 
 # 60: Character Properties
 

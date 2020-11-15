@@ -1,6 +1,8 @@
+---
 layout: page
 title: "24: ABI Stability - Mangling"
 permalink: /episodes/fdbc74ca/
+---
 
 # 24: ABI Stability - Mangling
 

@@ -1,6 +1,8 @@
+---
 layout: page
 title: "49: Swift Protocol Wishlist"
 permalink: /episodes/aef515ab/
+---
 
 # 49: Swift Protocol Wishlist
 

@@ -1,6 +1,8 @@
+---
 layout: page
 title: "15: What's New in Swift 4 (Part 2)"
 permalink: /episodes/c7b4b5ed/
+---
 
 # 15: What's New in Swift 4 (Part 2)
 

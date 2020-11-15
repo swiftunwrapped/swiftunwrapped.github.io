@@ -34,9 +34,11 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   }
 
   episode_file="$(_jq '.token').md"
-  echo "layout: page" > "$episode_file"
+  echo "---" > "$episode_file"
+  echo "layout: page" >> "$episode_file"
   echo "title: \"$(_jq '.title')\"" >> "$episode_file"
   echo "permalink: /episodes/$(_jq '.token')/" >> "$episode_file"
+  echo "---" >> "$episode_file"
   echo "" >> "$episode_file"
   echo "# $(_jq '.title')" >> "$episode_file"
   echo "" >> "$episode_file"

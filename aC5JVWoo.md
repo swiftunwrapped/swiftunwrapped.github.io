@@ -1,6 +1,8 @@
+---
 layout: page
 title: "87: Package Registries and Indexes"
 permalink: /episodes/aC5JVWoo/
+---
 
 # 87: Package Registries and Indexes
 

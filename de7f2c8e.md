@@ -1,6 +1,8 @@
+---
 layout: page
 title: "00: And We're Live! "
 permalink: /episodes/de7f2c8e/
+---
 
 # 00: And We're Live! 
 

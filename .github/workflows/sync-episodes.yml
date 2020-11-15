@@ -1,6 +1,8 @@
 name: Sync Episodes
 
 on:
+  push:
+    branches: main
   schedule:
     # Hourly
     - cron: "0 * * * *"

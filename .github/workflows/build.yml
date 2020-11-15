@@ -22,5 +22,5 @@ jobs:
         run: |
           git config --global user.email "${GITHUB_ACTOR}"
           git config --global user.name "${GITHUB_ACTOR}@users.noreply.github.com"
-          git commit -am "Sync Simplecast"
+          git commit -am "Sync Simplecast" || true
           git push

@@ -1,3 +1,1 @@
-# {{ site.title }}
-
 *{{ site.description }}*

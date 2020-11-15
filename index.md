@@ -90,4 +90,4 @@
 * [03: Source Stability (What is a Source Breaking Change?)](/episodes/083dd5d3)
 * [02: SourceKit (Compiling by Default)](/episodes/8279a6e2)
 * [01: Already & Only (Swift Open Source Year in Review)](/episodes/b1715d76)
-* [00: And We're Live! ](/episodes/de7f2c8e)
+* [00: And We're Live!](/episodes/de7f2c8e)

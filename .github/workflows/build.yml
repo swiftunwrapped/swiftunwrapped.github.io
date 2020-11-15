@@ -1,0 +1,26 @@
+name: Build Site
+
+on:
+  schedule:
+    # Hourly
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    name: Build Site
+    runs-on: ubuntu-latest
+    steps:
+      - name: git checkout
+        uses: actions/checkout@v2
+
+      - name: Sync Simplecast
+        run: ./scripts/build.sh
+        with:
+          SIMPLECAST_TOKEN: ${{ secrets.SIMPLECAST_TOKEN }}
+
+      - name: Commit Changes
+        run: |
+          git config --global user.email "${GITHUB_ACTOR}"
+          git config --global user.name "${GITHUB_ACTOR}@users.noreply.github.com"
+          git commit -am "Sync Simplecast"
+          git push

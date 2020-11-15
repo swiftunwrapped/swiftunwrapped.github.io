@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "90: Swift Atomics"
+date: "2020-11-02T05:00:00-08:00"
 permalink: /episodes/EDeUfIq2/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "89: Implementing the Swift Runtime in Swift, with Jordan Rose"
+date: "2020-10-12T11:10:30-07:00"
 permalink: /episodes/1DMLbJg5/
 ---
 

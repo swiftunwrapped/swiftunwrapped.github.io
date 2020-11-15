@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "28: Refactoring Engine "
+date: "2017-09-11T05:00:00-07:00"
 permalink: /episodes/9d6eaee7/
 ---
 

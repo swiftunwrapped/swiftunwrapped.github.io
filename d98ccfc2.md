@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "25: ABI Stability –  Calling Convention, Runtime and Standard Library"
+date: "2017-08-21T05:00:00-07:00"
 permalink: /episodes/d98ccfc2/
 ---
 

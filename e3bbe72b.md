@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "74: Removing Things From Swift"
+date: "2019-05-06T05:00:00-07:00"
 permalink: /episodes/e3bbe72b/
 ---
 

@@ -6,7 +6,7 @@ permalink: /episodes/e3bbe72b/
 
 # 74: Removing Things From Swift
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/6a1f3e80-2343-4c5e-ac0e-53a8ceea62b5" width="100%" />
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/6a1f3e80-2343-4c5e-ac0e-53a8ceea62b5" width="100%"></iframe>
 
 ## Relevant Links
 

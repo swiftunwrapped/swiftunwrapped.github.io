@@ -6,7 +6,7 @@ permalink: /episodes/de7f2c8e/
 
 # 00: And We're Live! 
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/4ae1942a-835e-4096-a3b1-da86ddc3c902" width="100%" />
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/4ae1942a-835e-4096-a3b1-da86ddc3c902" width="100%"></iframe>
 
 There are tons of podcasts out there about general Apple/iOS/macOS development but nothing specifically about only the Swift programming language. 
 

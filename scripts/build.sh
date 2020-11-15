@@ -20,7 +20,7 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
     echo "${episode}" | base64 --decode | jq -r ${1}
   }
 
-  echo "* [$(_jq '.title')](https://spec.fm/podcasts/swift-unwrapped/$(_jq '.token'))" >> index.md
+  echo "* [$(_jq '.title')](/episodes/$(_jq '.token'))" >> index.md
 
   episode_detail="$(curl \
     -H 'Accept: application/json' \
@@ -42,7 +42,7 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   echo "" >> "$episode_file"
   echo "# $(_jq '.title')" >> "$episode_file"
   echo "" >> "$episode_file"
-  echo "<iframe frameBorder=\"0\" height=\"200px\" scrolling=\"no\" seamless src=\"https://player.simplecast.com/$(_jq '.id')\" width=\"100%\" />" >> $episode_file
+  echo "<iframe frameBorder=\"0\" height=\"200px\" scrolling=\"no\" seamless src=\"https://player.simplecast.com/$(_jq '.id')\" width=\"100%\"></iframe>" >> $episode_file
   echo "" >> "$episode_file"
   echo "$(_jq2 '.long_description')" >> "$episode_file"
 done

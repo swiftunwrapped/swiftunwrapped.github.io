@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "87: Package Registries and Indexes"
+date: "2020-08-03T05:00:06-07:00"
 permalink: /episodes/aC5JVWoo/
 ---
 

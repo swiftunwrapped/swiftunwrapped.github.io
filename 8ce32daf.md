@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "35: Performance Profiling on Linux"
+date: "2017-10-30T05:00:00-07:00"
 permalink: /episodes/8ce32daf/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "00: And We're Live! "
+date: "2017-02-24T05:00:00-08:00"
 permalink: /episodes/de7f2c8e/
 ---
 

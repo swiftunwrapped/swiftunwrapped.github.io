@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "42: Conditional Conformance"
+date: "2018-01-15T05:00:00-08:00"
 permalink: /episodes/d4af5de6/
 ---
 

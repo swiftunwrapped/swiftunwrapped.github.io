@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "60: Character Properties"
+date: "2018-05-28T05:00:00-07:00"
 permalink: /episodes/cef2e6bc/
 ---
 

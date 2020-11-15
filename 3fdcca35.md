@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "76: Property Wrappers"
+date: "2019-07-01T05:00:00-07:00"
 permalink: /episodes/3fdcca35/
 ---
 

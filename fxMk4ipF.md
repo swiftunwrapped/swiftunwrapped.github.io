@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "86: Tuples"
+date: "2020-06-18T05:00:04-07:00"
 permalink: /episodes/fxMk4ipF/
 ---
 

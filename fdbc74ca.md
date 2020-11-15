@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "24: ABI Stability - Mangling"
+date: "2017-08-14T05:00:00-07:00"
 permalink: /episodes/fdbc74ca/
 ---
 

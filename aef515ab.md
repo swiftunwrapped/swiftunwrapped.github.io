@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "49: Swift Protocol Wishlist"
+date: "2018-03-05T05:00:00-08:00"
 permalink: /episodes/aef515ab/
 ---
 

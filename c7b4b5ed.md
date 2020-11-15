@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "15: What's New in Swift 4 (Part 2)"
+date: "2017-06-12T05:00:00-07:00"
 permalink: /episodes/c7b4b5ed/
 ---
 

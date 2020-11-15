@@ -1,0 +1,29 @@
+# Dependencies
+plugins:
+  - jekyll-sitemap
+
+# File rules
+exclude:
+  - Makefile
+  - LICENSE
+  - README.md
+  - scripts/
+  - .github/
+
+# Site
+permalink: /episodes/:year/:month/:day/:title/
+excerpt_separator: <!--excerpt-->
+sass:
+  style: compressed
+
+# Metadata
+title: 'Swift Unwrapped'
+description: 'An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.'
+url: https://swiftunwrapped.github.io
+logo: /img/logo.jpg
+timezone: America/Los_Angeles
+twitter: swift_unwrapped
+
+feeds:
+  rss: '/feed.xml'
+  json: '/feed.json'

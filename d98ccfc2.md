@@ -7,8 +7,10 @@ permalink: /episodes/d98ccfc2/
 
 # 25: ABI Stability –  Calling Convention, Runtime and Standard Library
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/5b31a287-ea14-436c-8d8d-4516731b2661" width="100%"></iframe>
+### {{ page.date | date_to_string }}
 
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/5b31a287-ea14-436c-8d8d-4516731b2661" width="100%"></iframe>
+<br/>
 * ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md
 * ABI Dashboard: https://swift.org/abi-stability
 * ABI Docs: https://github.com/apple/swift/tree/master/docs/ABI

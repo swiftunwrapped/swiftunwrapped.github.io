@@ -7,8 +7,10 @@ permalink: /episodes/aef515ab/
 
 # 49: Swift Protocol Wishlist
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/eedb656b-9197-47aa-b979-f53b4770bb04" width="100%"></iframe>
+### {{ page.date | date_to_string }}
 
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/eedb656b-9197-47aa-b979-f53b4770bb04" width="100%"></iframe>
+<br/>
 In Today's episode we share thoughts on Dave DeLong's "protocol wishlist" for Swift and other ideas for improving Swift's protocols.
 
 - Blogpost: https://davedelong.com/blog/2018/02/08/swift-protocols-wishlist/

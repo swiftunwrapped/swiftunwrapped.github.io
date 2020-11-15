@@ -7,8 +7,10 @@ permalink: /episodes/de7f2c8e/
 
 # 00: And We're Live! 
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/4ae1942a-835e-4096-a3b1-da86ddc3c902" width="100%"></iframe>
+### {{ page.date | date_to_string }}
 
+<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/4ae1942a-835e-4096-a3b1-da86ddc3c902" width="100%"></iframe>
+<br/>
 There are tons of podcasts out there about general Apple/iOS/macOS development but nothing specifically about only the Swift programming language. 
 
 So, we decided to make a podcast about the Swift language and a commentary on the [Swift Weekly Brief][1]. This podcast is a continuation on more details about Swift Weekly and our own thoughts on Swift news. 

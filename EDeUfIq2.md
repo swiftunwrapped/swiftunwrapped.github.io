@@ -1,8 +1,6 @@
----
 layout: page
 title: "90: Swift Atomics"
 permalink: /episodes/EDeUfIq2/
----
 
 # 90: Swift Atomics
 

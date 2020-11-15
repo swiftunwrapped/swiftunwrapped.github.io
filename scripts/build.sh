@@ -17,7 +17,7 @@ EOF
 # https://www.starkandwayne.com/blog/bash-for-loop-over-json-array-using-jq/
 for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   _jq() {
-    echo ${episode} | base64 --decode | jq -r ${1}
+    echo "${episode}" | base64 --decode | jq -r ${1}
   }
 
   echo "* [$(_jq '.title')](https://spec.fm/podcasts/swift-unwrapped/$(_jq '.token'))" >> index.md
@@ -30,7 +30,7 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
     https://api.simplecast.com/episodes/$(_jq '.id'))"
 
   _jq2() {
-    echo ${episode_detail} | jq -r ${1}
+    echo "${episode_detail}" | jq -r ${1}
   }
 
   episode_file="$(_jq '.token').md"

@@ -7,8 +7,8 @@ permalink: /episodes/8ce32daf/
 # 35: Performance Profiling on Linux
 
 - JP's FrenchKit talk on "Performance Profiling Swift on Linux":
- - Video: https://youtu.be/TWeLLTFjqXg
- - Slides: https://speakerdeck.com/jpsim/performance-profiling-swift-on-linux
+  - Video: https://youtu.be/TWeLLTFjqXg
+  - Slides: https://speakerdeck.com/jpsim/performance-profiling-swift-on-linux
 - [Perf](http://www.brendangregg.com/perf.html)
 - [Valgrind](http://valgrind.org/)
 - [Callgrind](http://valgrind.org/docs/manual/cl-manual.html)

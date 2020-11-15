@@ -1,4 +1,4 @@
-name: Build Site
+name: Sync Episodes
 
 on:
   schedule:
@@ -6,15 +6,15 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  build:
-    name: Build Site
+  sync:
+    name: Sync Episodes
     runs-on: ubuntu-latest
     steps:
       - name: git checkout
         uses: actions/checkout@v2
 
-      - name: Sync Simplecast
-        run: ./scripts/build.sh
+      - name: Sync Episodes
+        run: ./scripts/sync-episodes.sh
         env:
           SIMPLECAST_TOKEN: ${{ secrets.SIMPLECAST_TOKEN }}
 
@@ -22,5 +22,5 @@ jobs:
         run: |
           git config --global user.email "${GITHUB_ACTOR}"
           git config --global user.name "${GITHUB_ACTOR}@users.noreply.github.com"
-          git commit -am "Sync Simplecast" || true
+          git commit -am "Sync Episodes" || true
           git push

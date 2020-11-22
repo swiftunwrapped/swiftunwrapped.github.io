@@ -24,11 +24,6 @@ permalink: /episodes/:title/
 sass:
   style: compressed
 
-# Metadata
 url: https://swiftunwrapped.github.io
-timezone: America/Los_Angeles
-twitter: swift_unwrapped
 
-feeds:
-  rss: '/feed.xml'
-  json: '/feed.json'
+timezone: America/Los_Angeles

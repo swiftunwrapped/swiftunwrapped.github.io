@@ -33,6 +33,7 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
     echo "${episode_detail}" | jq -r ${1}
   }
 
+  mkdir -p episodes
   episode_file="episodes/$(_jq '.token').md"
   echo "---" > "$episode_file"
   echo "layout: default" >> "$episode_file"

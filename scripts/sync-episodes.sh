@@ -33,6 +33,16 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
     echo "${episode_detail}" | jq -r ${1}
   }
 
+  mkdir -p audio
+
+  curl \
+    -H 'Accept: application/json' \
+    -H "Authorization: Bearer ${SIMPLECAST_TOKEN}" \
+    --location \
+    --request GET \
+    $(_jq2 '.audio_file_url') \
+    -o "audio/$(_jq '.token').mp3"
+
   mkdir -p episodes
   episode_file="episodes/$(_jq '.token').md"
   echo "---" > "$episode_file"
@@ -40,13 +50,14 @@ for episode in $(echo "${episodes}" | jq -r '.collection[] | @base64'); do
   echo "title: \"$(_jq '.title')\"" >> "$episode_file"
   echo "date: \"$(_jq '.published_at')\"" >> "$episode_file"
   echo "permalink: /episodes/$(_jq '.token')/" >> "$episode_file"
+  echo "episode_id: $(_jq '.token')" >> "$episode_file"
   echo "---" >> "$episode_file"
   echo "" >> "$episode_file"
   echo "# $(_jq '.title')" >> "$episode_file"
   echo "" >> "$episode_file"
-  echo "### {{ page.date | date_to_string }}" >> "$episode_file"
+  echo "### {{ page.date | date_to_long_string }}" >> "$episode_file"
   echo "" >> "$episode_file"
-  echo "<iframe frameBorder=\"0\" height=\"200px\" scrolling=\"no\" seamless src=\"https://player.simplecast.com/$(_jq '.id')\" width=\"100%\"></iframe>" >> $episode_file
+  echo "<audio controls><source src=\"/audio/$(_jq '.token').mp3\" type=\"audio/mpeg\"></audio>" >> $episode_file
   echo "<br/>" >> "$episode_file"
   echo "$(_jq2 '.long_description')" >> "$episode_file"
 done

@@ -1,11 +1,7 @@
 name: Sync Episodes
 
 on:
-  push:
-    branches: main
-  schedule:
-    # Hourly
-    - cron: "0 * * * *"
+  - workflow_dispatch
 
 jobs:
   sync:
@@ -25,5 +21,6 @@ jobs:
           git config --global user.email "${GITHUB_ACTOR}"
           git config --global user.name "${GITHUB_ACTOR}@users.noreply.github.com"
           git add episodes
+          git add audio
           git commit -am "Sync Episodes" || true
           git push

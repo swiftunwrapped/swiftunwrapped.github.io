@@ -3,13 +3,14 @@ layout: default
 title: "28: Refactoring Engine "
 date: "2017-09-11T05:00:00-07:00"
 permalink: /episodes/9d6eaee7/
+episode_id: 9d6eaee7
 ---
 
 # 28: Refactoring Engine 
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/942f3e25-a7d6-4dbf-8b62-3326253070ba" width="100%"></iframe>
+<audio controls><source src="/audio/9d6eaee7.mp3" type="audio/mpeg"></audio>
 <br/>
 * Swift.org blog post on Swift Local Refactoring: https://swift.org/blog/swift-local-refactoring/
 * Clang-based refactoring engine: http://lists.llvm.org/pipermail/cfe-dev/2017-June/054286.html

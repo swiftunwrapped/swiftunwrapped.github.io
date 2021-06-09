@@ -3,13 +3,14 @@ layout: default
 title: "42: Conditional Conformance"
 date: "2018-01-15T05:00:00-08:00"
 permalink: /episodes/d4af5de6/
+episode_id: d4af5de6
 ---
 
 # 42: Conditional Conformance
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/7ac06d5e-4a1d-4a81-a03d-b486d4b40223" width="100%"></iframe>
+<audio controls><source src="/audio/d4af5de6.mp3" type="audio/mpeg"></audio>
 <br/>
 Swift 4.1 will include support for conditional protocol conformance, and we're excited to use it!
 

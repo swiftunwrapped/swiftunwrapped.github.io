@@ -3,13 +3,14 @@ layout: default
 title: "74: Removing Things From Swift"
 date: "2019-05-06T05:00:00-07:00"
 permalink: /episodes/e3bbe72b/
+episode_id: e3bbe72b
 ---
 
 # 74: Removing Things From Swift
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/6a1f3e80-2343-4c5e-ac0e-53a8ceea62b5" width="100%"></iframe>
+<audio controls><source src="/audio/e3bbe72b.mp3" type="audio/mpeg"></audio>
 <br/>
 ## Relevant Links
 

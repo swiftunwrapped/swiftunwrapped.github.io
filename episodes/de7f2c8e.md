@@ -3,13 +3,14 @@ layout: default
 title: "00: And We're Live! "
 date: "2017-02-24T05:00:00-08:00"
 permalink: /episodes/de7f2c8e/
+episode_id: de7f2c8e
 ---
 
 # 00: And We're Live! 
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/4ae1942a-835e-4096-a3b1-da86ddc3c902" width="100%"></iframe>
+<audio controls><source src="/audio/de7f2c8e.mp3" type="audio/mpeg"></audio>
 <br/>
 There are tons of podcasts out there about general Apple/iOS/macOS development but nothing specifically about only the Swift programming language. 
 

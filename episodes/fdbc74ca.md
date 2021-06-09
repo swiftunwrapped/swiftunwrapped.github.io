@@ -3,13 +3,14 @@ layout: default
 title: "24: ABI Stability - Mangling"
 date: "2017-08-14T05:00:00-07:00"
 permalink: /episodes/fdbc74ca/
+episode_id: fdbc74ca
 ---
 
 # 24: ABI Stability - Mangling
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/bdc44b4f-6b68-4c2f-bfed-a61b1b8dfc93" width="100%"></iframe>
+<audio controls><source src="/audio/fdbc74ca.mp3" type="audio/mpeg"></audio>
 <br/>
 * Twitter thread on source stability discussion for episode 22: https://twitter.com/swift_unwrapped/status/892023116377075712
 * ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md

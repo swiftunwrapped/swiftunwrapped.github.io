@@ -3,13 +3,14 @@ layout: default
 title: "60: Character Properties"
 date: "2018-05-28T05:00:00-07:00"
 permalink: /episodes/cef2e6bc/
+episode_id: cef2e6bc
 ---
 
 # 60: Character Properties
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/ec245c2f-8cc8-45ee-ac90-c66da8811a30" width="100%"></iframe>
+<audio controls><source src="/audio/cef2e6bc.mp3" type="audio/mpeg"></audio>
 <br/>
 Forums:
  

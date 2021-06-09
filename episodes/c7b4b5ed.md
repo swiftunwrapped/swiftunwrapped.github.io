@@ -3,13 +3,14 @@ layout: default
 title: "15: What's New in Swift 4 (Part 2)"
 date: "2017-06-12T05:00:00-07:00"
 permalink: /episodes/c7b4b5ed/
+episode_id: c7b4b5ed
 ---
 
 # 15: What's New in Swift 4 (Part 2)
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/401a9081-0886-4643-a347-2f2a20f6b384" width="100%"></iframe>
+<audio controls><source src="/audio/c7b4b5ed.mp3" type="audio/mpeg"></audio>
 <br/>
 ### What should you expect with Swift 4? 
 

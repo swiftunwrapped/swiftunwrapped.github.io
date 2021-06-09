@@ -3,13 +3,14 @@ layout: default
 title: "76: Property Wrappers"
 date: "2019-07-01T05:00:00-07:00"
 permalink: /episodes/3fdcca35/
+episode_id: 3fdcca35
 ---
 
 # 76: Property Wrappers
 
-### {{ page.date | date_to_string }}
+### {{ page.date | date_to_long_string }}
 
-<iframe frameBorder="0" height="200px" scrolling="no" seamless src="https://player.simplecast.com/234e904c-9511-47ee-9fa8-658b58c60878" width="100%"></iframe>
+<audio controls><source src="/audio/3fdcca35.mp3" type="audio/mpeg"></audio>
 <br/>
 * [Proposal SE-0258](https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md)
 * Review threads:

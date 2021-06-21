@@ -3,7 +3,6 @@
   <channel>
     <atom:link href="https://feeds.simplecast.com/3pGv88mm" rel="self" title="MP3 Audio" type="application/atom+xml"/>
     <atom:link href="https://simplecast.superfeedr.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
-    <generator>https://simplecast.com</generator>
     <title>Swift Unwrapped</title>
     <description>An audio spin off of Swift Weekly Brief and discussions on the Swift programming language. </description>
     <copyright>2020 Spec Network, Inc.</copyright>

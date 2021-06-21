@@ -10,11 +10,11 @@
     <pubDate>Mon, 21 Jun 2021 12:00:00 +0000</pubDate>
     <lastBuildDate>Mon, 21 Jun 2021 12:00:10 +0000</lastBuildDate>
     <image>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <title>Swift Unwrapped</title>
       <url>https://image.simplecastcdn.com/images/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a28195f8-ab73-4040-90cf-6b0ff94bf477/3000x3000/1557116952-artwork.jpg?aid=rss_feed</url>
     </image>
-    <link>https://spec.fm/podcasts/swift-unwrapped</link>
+    <link>https://swiftunwrapped.github.io</link>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>An audio spin off of Swift Weekly Brief and discussions on the Swift programming language. </itunes:summary>
     <itunes:author>Spec, JP Simard, Jesse Squires</itunes:author>
@@ -34,7 +34,7 @@
 ]]></description>
       <pubDate>Mon, 21 Jun 2021 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul><li><a href="https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5">Paul Hudson's What's New in Swift 5.5</a></li><li><a href="https://swiftbysundell.com/">Swift By Sundell</a></li><li><a href="https://github.com/davedelong/time">Time by Dave DeLong</a> (mistakenly called Chronos during the show)</li></ul>
 ]]></content:encoded>
       <enclosure length="27800880" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/9415a7c4-e767-4bc1-8438-e67ff03a542c/audio/59932e5c-d516-4f64-9e02-b1923f03261d/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -59,7 +59,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 7 Dec 2020 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Links</h3><ul><li><a href="https://forums.swift.org/t/swift-concurrency-roadmap/41611">Swift concurrency roadmap</a></li><li><a href="https://swiftunwrapped.github.io/episodes/409cbdc5/">Episode 27: Concurrency with Chris Lattner</a></li><li><a href="https://forums.swift.org/t/concurrency-actors-actor-isolation/41613">[Concurrency] Actors & actor isolation</a></li><li><a href="https://forums.swift.org/t/concurrency-interoperability-with-objective-c/41616">[Concurrency] Interoperability with Objective-C</a></li><li><a href="https://forums.swift.org/t/concurrency-structured-concurrency/41622">[Concurrency] Structured concurrency</a></li><li><a href="https://forums.swift.org/t/concurrency-asynchronous-functions/41619">[Concurrency] Asynchronous functions</a></li><li><a href="https://forums.swift.org/t/concurrency-asyncsequence/42417">[Concurrency] AsyncSequence</a></li><li><a href="https://gist.github.com/DougGregor/444575ac67cbd25bfc4b1d4fd241ae93">Swift Concurrency Proposals Dependencies Graph</a></li><li><a href="https://docs.google.com/document/d/1BEO6QwzcYCUhaGyA-WRoM_phRa7O7mGPNIMdSV4StEE">Protocol-based Actor Isolation: Draft #2</a></li><li><a href="https://forums.swift.org/t/actors-are-reference-types-but-why-classes/42281">Actors are reference types, but why classes?</a></li></ul><h3>Sponsors</h3><ul><li><strong>AWS Amplify</strong> - AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p>
 ]]></content:encoded>
       <enclosure length="43224292" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/0248870d-280f-4df1-8693-c659a1210f4d/audio/1e27b922-a9a5-4678-9203-a539ef1f7b58/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -80,7 +80,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 2 Nov 2020 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Links</h3><ul><li><a href="https://swift.org/blog/swift-atomics/">Announcement blog post</a></li><li><a href="https://twitter.com/lorentey/">Karoy Lorentey</a></li><li><a href="https://github.com/apple/swift-atomics">GitHub Repository</a></li><li><a href="https://forums.swift.org/c/related-projects/swift-atomics">Atomics forum</a></li><li><a href="https://news.ycombinator.com/item?id=24657500">Hacker News Discussion</a></li><li><a href="https://github.com/glessard/swift-atomics">Guillaume Lessard’s existing swift-atomics repo</a></li></ul><h3>Sponsors</h3><ul><li><strong>AWS Amplify</strong> - AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a>.</p>
 ]]></content:encoded>
       <enclosure length="26140572" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/0d6319c6-d943-4a47-9eb0-cd58829472a8/audio/d75cc258-b633-4807-839b-49c17dc299c1/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -101,7 +101,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 12 Oct 2020 18:10:30 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>What’s in a Swift runtime?</h2><ul><li><a href="https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/">Swift on Mac OS 9</a></li><li><a href="https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/">Heap Objects</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Type-Layout/">Type Layout</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Type-Metadata/">Type Metadata</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Uniquing-Caches/">Uniquing Caches</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Class-Metadata/">Class Metadata</a></li><li><a href="https://belkadan.com/blog/2020/10/Swift-Runtime-Class-Metadata-Initialization/">Class Metadata Initialization</a></li></ul><h3>Other links</h3><ul><li><a href="https://forums.swift.org/t/guarantee-in-memory-tuple-layout-or-dont/40122">Layout guarantees</a></li><li><a href="https://www.highcaffeinecontent.com/blog/20150124-MPW,-Carbon-and-building-Classic-Mac-OS-apps-in-OS-X">Steve Troughton-Smith’s BitPaint</a></li><li><a href="https://github.com/ksherlock/mpw">@ksherlock’s mpw</a></li><li><a href="https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html">An explainer on Swift weak references</a></li></ul><h3>About Jordan</h3><ul><li><a href="https://twitter.com/UINT_MIN">Twitter @UINT_MIN</a></li><li><a href="https://belkadan.com">Belkadan</a></li><li><a href="https://citizensclimatelobby.org">Citizens’ Climate Lobby</a></li></ul><h3> </h3><h3>Sponsors</h3><ul><li><strong>Instabug</strong> - Get Application Performance Monitoring built for mobile apps and stay on top of your app quality with Instabug. Check them out and them them know we sent you at <a href="https://try.instabug.com/SwiftUnwrapped">https://try.instabug.com/SwiftUnwrapped</a></li></ul><p> </p><ul><li><strong>AWS Amplify </strong>- AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3> </h3><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a>.</p>
 ]]></content:encoded>
       <enclosure length="63787048" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/4eaaf04a-3e8b-4ab7-96ca-84e0f622062f/audio/92563d7e-1b47-4c64-8aa3-e04013fb02f9/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -122,7 +122,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 14 Sep 2020 17:26:37 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul><li><a href="https://swift.org/blog/5-3-release-process/">5.3 release process</a></li><li><a href="https://swift.org/blog/additional-linux-distros/">Swift for Linux distros</a></li><li><a href="https://swift.org/blog/aws-lambda-runtime/">AWS lambda Runtime</a></li><li><a href="https://swift.org/blog/swift-service-lifecycle/">Swift Service Lifecycle</a></li><li><a href="https://swift.org/blog/swift-cluster-membership/">Swift Cluster membership</a></li><li><a href="https://apple.github.io/swift-evolution/#?status=accepted&version=5.3">Proposals accepted/implemented in 5.3</a></li><li><a href="https://github.com/apple/swift/commits/release/5.3">Commit history for Swift 5.3 branch</a></li><li><a href="https://github.com/apple/swift/pull/33487">Mike Ash's perf PR</a></li><li><a href="https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3">Hacking with Swift What’s New in Swift 5.3</a></li></ul><h2>Get in Touch</h2><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></content:encoded>
       <enclosure length="17873749" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f66e20f0-f2e0-4aef-953b-3fbf60ea8dc8/88_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -143,7 +143,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 3 Aug 2020 12:00:06 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul><li>Swift Package Index<ul><li><a href="https://iosdevweekly.com/issues/460#comment">Intro</a></li><li><a href="https://swiftpackageindex.com">Website</a></li><li><a href="https://forums.swift.org/t/introducing-the-swift-package-index/37512">Forum</a></li><li><a href="https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server">GitHub</a></li><li><a href="https://github.com/SwiftPackageIndex/PackageList">Package List</a></li><li><a href="https://twitter.com/daveverwer">Dave</a></li><li><a href="https://twitter.com/_sa_s">Sven</a></li><li><a href="https://cocoapods.org">CocoaPods website</a></li></ul></li><li>Swift Package Registry<ul><li><a href="https://forums.swift.org/t/swift-package-registry-service/37219">Swift Package Registry Service Pitch</a><ul><li><a href="https://twitter.com/mattt/status/1278706413921951746">Tweet</a></li></ul></li><li><a href="https://forums.swift.org/t/package-manager-source-archive-dependencies/38626">Package Manager Source Archive Dependencies Pitch</a><ul><li><a href="https://twitter.com/mattt/status/1285966688597315584">Tweet</a></li></ul></li><li><a href="https://twitter.com/mattt">Mattt Thompson</a></li></ul></li></ul><h2>Get in Touch</h2><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></content:encoded>
       <enclosure length="34345134" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b6787f56-3a6d-43cb-884e-820a1028bba1/87_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -165,7 +165,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Thu, 18 Jun 2020 12:00:04 +0000</pubDate>
       <author>shows@spec.fm (Spec Network, Inc.)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h4>SE-0282 Tuples conform to Equatable, Comparable, and Hashable</h4><ul><li>Acceptance: <a href="https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658">https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658</a></li><li>Review: <a href="https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140">https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140</a></li><li>Proposal: <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0283-tuples-are-equatable-comparable-hashable.md">https://github.com/apple/swift-evolution/blob/master/proposals/0283-tuples-are-equatable-comparable-hashable.md</a></li></ul><p>Bow: <a href="https://bow-swift.io">https://bow-swift.io</a></p><h3>👋 Get in Touch</h3><p>We are <a href="https://twitter.com/swift_unwrapped">@swift_unwrapped</a> on twitter. Follow us, ask us a question, let us know what you think of the show! If you want to follow us individually, we're <a href="https://twitter.com/jesse_squires">@jesse_squires</a> and <a href="https://twitter.com/simjp">@simjp</a>.</p><h3>🖤 Leave A Review</h3><p>If you're enjoying the show. The best and easiest way to show your support is by heading over to iTunes and leaving us a review! Not only do you let us know what you like about the show, but you're also helping other Swift language folks find the show.</p><p>Head over to our <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes page</a> to share your opinion of the show!</p>
 ]]></content:encoded>
       <enclosure length="38973156" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/641073f1-f00c-4303-b83d-140a78ceab87/project-86v2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
@@ -201,7 +201,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Tue, 3 Mar 2020 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Foundation on Windows: https://forums.swift.org/t/swift-soars-ever-higher/34036</li>
 <li>Interoperability between Swift and C++: https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874</li>
@@ -251,7 +251,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 3 Feb 2020 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Magic file names: https://github.com/apple/swift-evolution/blob/master/proposals/0274-magic-file.md</li>
 <li>Multi-pattern catch clauses
@@ -294,7 +294,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 6 Jan 2020 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://forums.swift.org/t/modify-accessors/31872">Forum post</a></li>
 <li><a href="https://www.youtube.com/watch?v=BXJIIQ-B4-E">Functional Swift conference talk</a></li>
@@ -336,7 +336,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 2 Dec 2019 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>The way Swift reports compilation diagnostics like errors, warnings and fixits is about to improve in Swift 5.2.</p>
 <ul>
 <li><a href="https://swift.org/blog/new-diagnostic-arch-overview/">Blog post</a></li>
@@ -386,7 +386,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 4 Nov 2019 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Would you like some Swift in your Swift? The compiler driver is getting a shiny new implementation in Swift and there's no shortage of opportunities to contribute.</p>
 <ul>
 <li><a href="https://forums.swift.org/t/new-project-announcement-swift-compiler-driver-reimplementation-in-swift/29696">Forum discussion</a></li>
@@ -438,7 +438,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 7 Oct 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>The Swift of tomorrow... today! The Standard Library Preview Package would allow you to try out upcoming Swift features before they officially ship with new language versions.</p>
 <ul>
 <li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0264-stdlib-preview-package.md</li>
@@ -487,7 +487,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 16 Sep 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Burritos: https://github.com/guillermomuntaner/Burritos</li>
 <li>SE-0260 Library Evolution: https://github.com/apple/swift-evolution/blob/master/proposals/0260-library-evolution.md</li>
@@ -533,7 +533,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 2 Sep 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Forum pitch: https://forums.swift.org/t/pitch-support-for-binary-dependencies/27620</li>
 <li>Swift ABI Stability: https://swift.org/blog/abi-stability-and-more/</li>
@@ -582,7 +582,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 5 Aug 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0246-mathable.md">Proposal SE-0246</a></li>
 <li><a href="https://speakerdeck.com/jessesquires/exploring-swifts-numeric-types-and-protocols">Exploring Swift's Numeric Types and Protocols</a></li>
@@ -642,7 +642,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 1 Jul 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md">Proposal SE-0258</a></li>
 <li>Review threads:
@@ -707,7 +707,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Sun, 2 Jun 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Links</h2>
 <ul>
 <li><a href="https://github.com/yonaskolb/XcodeGen">XcodeGen</a></li>
@@ -771,7 +771,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 6 May 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0255-omit-return.md">SE-0255: Implicit returns from single-expression functions</a>
@@ -833,7 +833,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 1 Apr 2019 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
 <li><a href="https://swift.org/blog/utf8-string/">UTF-8 String blog post on swift.org</a></li>
@@ -896,7 +896,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 4 Mar 2019 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
 <li><a href="https://forums.swift.org/t/pitch-an-official-style-guide-and-formatter-for-swift/21025">Swift Forums Pitch: an Official Style Guide and Formatter for Swift</a></li>
@@ -967,7 +967,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 4 Feb 2019 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
 <li>Key Path Expressions as Functions: https://forums.swift.org/t/key-path-expressions-as-functions/19587</li>
@@ -1032,7 +1032,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 7 Jan 2019 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
 <li><a href="https://forums.swift.org/t/new-lsp-language-service-supporting-swift-and-c-family-languages-for-any-editor-and-platform/17024">Announcement Post on Swift Forums</a></li>
@@ -1082,7 +1082,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 3 Dec 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Proposal</a></li>
 <li><a href="https://forums.swift.org/t/se-0235-add-result-to-the-standard-library/17752">Forums review phase one</a></li>
@@ -1122,7 +1122,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 5 Nov 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://forums.swift.org/t/opaque-result-types/15645</li>
 <li>LazyMapCollection: https://cocoacasts.com/what-is-a-lazymapcollection-in-swift​</li>
@@ -1165,7 +1165,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 15 Oct 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0200-raw-string-escaping.md">SE-0200 Enhancing String Literals Delimiters to Support Raw Text</a></li>
 <li><a href="https://github.com/twostraws/whats-new-in-swift-5-0">Paul Hudson’s What’s New in Swift 5 Playground</a></li>
@@ -1207,7 +1207,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 20 Aug 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://forums.swift.org/t/plan-for-module-stability/14551</li>
 </ul>
@@ -1244,7 +1244,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 2 Jul 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0213-literal-init-via-coercion.md">SE-0213: Literal initialization via coercion</a></li>
 <li><a href="https://github.com/apple/swift/pull/15311">Implementation (apple/swift#15311)</a></li>
@@ -1281,7 +1281,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 25 Jun 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><code>Never</code> &amp; <code>absurd()</code>: https://twitter.com/pteasima/status/978325590397906944</li>
 <li>Point Free Episode #9 Algebraic Data Types: Exponents – https://www.pointfree.co/episodes/ep9-algebraic-data-types-exponents</li>
@@ -1321,7 +1321,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 18 Jun 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Data Structures and Algorithms in Swift: https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift</li>
 <li>Swift Algorithm Club: https://github.com/raywenderlich/swift-algorithm-club</li>
@@ -1359,7 +1359,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Wed, 13 Jun 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Ted Kremenek on Twitter: https://twitter.com/tkremenek</li>
 <li>Swift Evolution Dashboard of proposals implemented in Swift 4.2: https://apple.github.io/swift-evolution/#?version=4.2</li>
@@ -1397,7 +1397,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 11 Jun 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>This episode is a little different, where we discuss general announcements from WWDC 2018 not just limited to the Swift language. With special guest Greg Heo.</p>
 <ul>
 <li>Keynote: https://www.apple.com/apple-events/june-2018/</li>
@@ -1443,7 +1443,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 28 May 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Forums:</p>
 <ul>
 <li>https://forums.swift.org/t/pitch-character-and-string-properties/11620</li>
@@ -1489,7 +1489,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 21 May 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Links</h3>
 <ul>
 <li>Forums: https://forums.swift.org/t/implicit-escaping-of-closures-via-objective-c/12025</li>
@@ -1532,7 +1532,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 14 May 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Blog post on Reimplementation of Implicitly Unwrapped Optionals: https://swift.org/blog/iuo</li>
 <li>SE-0054 Abolish <code>ImplicitlyUnwrappedOptional</code> type: https://github.com/apple/swift-evolution/blob/master/proposals/0054-abolish-iuo.md</li>
@@ -1582,7 +1582,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 7 May 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://github.com/tensorflow/swift/blob/master/docs/DesignOverview.md</li>
 <li>https://twitter.com/chriseidhof/status/989736679417171968</li>
@@ -1630,7 +1630,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0206-hashable-enhancements.md</li>
 <li>Swift Evolution review thread &amp; acceptance post: https://forums.swift.org/t/accepted-se-0206-hashable-enhancements/11675/115</li>
@@ -1672,7 +1672,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 23 Apr 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0202-random-unification.md</li>
 <li>Swift Evolution thread: https://forums.swift.org/t/proposal-random-unification/6626</li>
@@ -1715,7 +1715,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 16 Apr 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://github.com/apple/swift-evolution/blob/master/proposals/0197-remove-where.md</li>
 <li>https://github.com/apple/swift-evolution/blob/master/proposals/0203-rename-sequence-elements-equal.md</li>
@@ -1756,7 +1756,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 9 Apr 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://www.tensorflow.org/</li>
 <li>https://youtu.be/Yze693W4MaU</li>
@@ -1794,7 +1794,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 2 Apr 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>We cover two recent Swift Package Manager proposal pitches.</p>
 <ul>
 <li>https://forums.swift.org/t/package-manager-extensible-build-tools/10900</li>
@@ -1832,7 +1832,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 26 Mar 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Conditional conformance: https://swift.org/blog/conditional-conformance/</li>
 <li>Generics manifesto: https://github.com/apple/swift/blob/master/docs/GenericsManifesto.md</li>
@@ -1872,7 +1872,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 19 Mar 2018 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Conditional conformance: https://swift.org/blog/conditional-conformance/</li>
 <li>Generics manifesto: https://github.com/apple/swift/blob/master/docs/GenericsManifesto.md</li>
@@ -1908,7 +1908,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 5 Mar 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>In Today's episode we share thoughts on Dave DeLong's &quot;protocol wishlist&quot; for Swift and other ideas for improving Swift's protocols.</p>
 <ul>
 <li>Blogpost: https://davedelong.com/blog/2018/02/08/swift-protocols-wishlist/</li>
@@ -1941,7 +1941,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 26 Feb 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Announcement on Swift Forums: https://forums.swift.org/t/swift-to-participate-in-gsoc-2018/10147</li>
 <li>Project Ideas: https://swift.org/project-ideas/</li>
@@ -1982,7 +1982,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 19 Feb 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>
 <p>Forum discussion: http://forums.swift.org/t/se-0198-playground-quicklook-api-revamp/9448</p>
@@ -2030,7 +2030,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 12 Feb 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>
 <p>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0189-restrict-cross-module-struct-initializers.md</p>
@@ -2085,7 +2085,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 5 Feb 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><code>Sequence.split</code> should have a Lazy equivalent: <a href="https://bugs.swift.org/browse/SR-6691">SR-6691</a></li>
 <li>Conditional conformance swift.org blog post: https://swift.org/blog/conditional-conformance</li>
@@ -2131,7 +2131,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://www.jessesquires.com/blog/swift-weekly-brief-hiatus/</li>
 <li>https://swiftweekly.github.io/issue-101/</li>
@@ -2162,7 +2162,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 22 Jan 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>State of String: ABI, Performance, Ergonomics, and You! https://gist.github.com/milseman/bb39ef7f170641ae52c13600a512782f</li>
 <li>https://twitter.com/Ilseman/status/951181851229483008</li>
@@ -2199,7 +2199,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 15 Jan 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Swift 4.1 will include support for conditional protocol conformance, and we're excited to use it!</p>
 <ul>
 <li>https://swift.org/blog/conditional-conformance/</li>
@@ -2236,7 +2236,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 8 Jan 2018 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Graydon Hoare’s swift-dev email: https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20171113/006001.html</li>
 <li>Compiler Performance doc: https://github.com/apple/swift/blob/master/docs/CompilerPerformance.md</li>
@@ -2279,7 +2279,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 18 Dec 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Introduce User-defined &quot;Dynamic Member Lookup&quot; Types:
 <ul>
@@ -2323,7 +2323,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 11 Dec 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://bugs.swift.org/browse/SR-4981</li>
 <li>https://github.com/apple/swift-source-compat-suite/blob/master/projects.json</li>
@@ -2365,7 +2365,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 4 Dec 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Enable core dumps: <code>ulimit -c unlimited</code></li>
 <li>Mutating functions require exclusive access:
@@ -2407,7 +2407,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 27 Nov 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Original proposal: https://github.com/apple/swift-evolution/pull/114</li>
 <li>Latest email: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20171106/040950.html</li>
@@ -2445,7 +2445,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 13 Nov 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Float80 Corrections: https://mobile.twitter.com/daniel_dunbar/status/923694549238611970</li>
 <li>Why the Swift Server Working Group's http library doesn't have an Xcode project: https://mobile.twitter.com/daniel_dunbar/status/923691076635914240</li>
@@ -2492,7 +2492,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 30 Oct 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>JP's FrenchKit talk on &quot;Performance Profiling Swift on Linux&quot;:
 <ul>
@@ -2536,7 +2536,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 23 Oct 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/</li>
 <li>https://speakerdeck.com/jessesquires/exploring-swifts-numeric-types-and-protocols</li>
@@ -2587,7 +2587,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 16 Oct 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Server APIs Project: https://swift.org/server-apis/</li>
 <li>Server APIs Working Group: https://swift.org/blog/server-api-workgroup/</li>
@@ -2640,7 +2640,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 9 Oct 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://swift.org/migration-guide-swift4/</li>
 <li>Using two Swift Package Manager manifest files:
@@ -2690,7 +2690,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></description>
       <pubDate>Mon, 2 Oct 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Measuring Swift compile times in Xcode 9: https://www.jessesquires.com/blog/measuring-compile-times-xcode9/</li>
 <li>Profiling your Swift compilation times: http://irace.me/swift-profiling</li>
@@ -2736,7 +2736,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 25 Sep 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Friday Q&amp;A:<br />
 https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html</p>
 <p>Leave a review on iTunes:<br />
@@ -2770,7 +2770,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 18 Sep 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>iPhone X keynote + GM seeds for Xcode 9, Swift 4</li>
 <li>Synthesizing Equatable and Hashable: https://github.com/apple/swift-evolution/blob/master/proposals/0185-synthesize-equatable-hashable.md</li>
@@ -2813,7 +2813,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 11 Sep 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Swift.org blog post on Swift Local Refactoring: https://swift.org/blog/swift-local-refactoring/</li>
 <li>Clang-based refactoring engine: http://lists.llvm.org/pipermail/cfe-dev/2017-June/054286.html</li>
@@ -2872,7 +2872,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 4 Sep 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Please take a minute to leave <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203">a review on iTunes</a> and <a href="http://spectrum.chat/specfm/swift-unwrapped">join us on Spectrum chat</a> if you'd like to discuss the show.</p>
 <ul>
 <li>
@@ -2921,7 +2921,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 28 Aug 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Mailing List: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170807/038645.html</li>
 <li>Swift Evolution Readme: https://github.com/apple/swift-evolution/blob/master/README.md</li>
@@ -2952,7 +2952,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
 <li>ABI Dashboard: https://swift.org/abi-stability</li>
@@ -2986,7 +2986,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 14 Aug 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Twitter thread on source stability discussion for episode 22: https://twitter.com/swift_unwrapped/status/892023116377075712</li>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
@@ -3028,7 +3028,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 7 Aug 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
 <li>ABI Dashboard: https://swift.org/abi-stability</li>
@@ -3067,7 +3067,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 31 Jul 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
 <li>ABI Dashboard: https://swift.org/abi-stability</li>
@@ -3099,7 +3099,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Bug of the week (sandboxing!): <a href="https://bugs.swift.org/browse/SR-5491">SR-549</a>, <a href="https://bugs.swift.org/browse/SR-5061">SR-5061</a></li>
 <li>String newline escaping: <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0182-newline-escape-in-strings.md">SE-0182</a></li>
@@ -3132,7 +3132,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 17 Jul 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Bug of the week: https://bugs.swift.org/browse/SR-4088</li>
 <li>Ted’s email: https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170605/004751.html</li>
@@ -3165,7 +3165,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 10 Jul 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Improvement of the week: https://github.com/apple/swift-package-manager/pull/1249</li>
 <li>Ted’s email: https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20170605/004751.html</li>
@@ -3205,7 +3205,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 3 Jul 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>SipHash: https://github.com/lorentey/SipHash</li>
 <li>CryptoSwift: https://github.com/krzyzanowskim/CryptoSwift</li>
@@ -3260,7 +3260,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 26 Jun 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Testing Swift: https://github.com/apple/swift/blob/master/docs/Testing.rst</li>
 <li>Lit: LLVM Integrated Tester: http://llvm.org/docs/CommandGuide/lit.html</li>
@@ -3309,7 +3309,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 19 Jun 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Error Handling: https://github.com/apple/swift/blob/master/docs/ErrorHandling.rst</li>
 <li>Rationale and Proposal: https://github.com/apple/swift/blob/master/docs/ErrorHandlingRationale.rst</li>
@@ -3348,7 +3348,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 12 Jun 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>What should you expect with Swift 4?</h3>
 <p>Some great new features and improvements.</p>
 <ul>
@@ -3395,7 +3395,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 5 Jun 2017 12:52:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>What should you expect with Swift 4?</h3>
 <p>Some great new features and improvements.</p>
 <ul>
@@ -3455,7 +3455,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 29 May 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>SwiftPM iOS
 <ul>
@@ -3513,7 +3513,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 22 May 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Moving to Discourse, email from Ted: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170206/031657.html</li>
 <li>Nate Cook's Discourse experiment: http://discourse.natecook.com/</li>
@@ -3561,7 +3561,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 15 May 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Manifesto: https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md</li>
 <li>TL;DR: https://gist.github.com/Gankro/1f79fbf2a9776302a9d4c8c0097cc40e</li>
@@ -3623,7 +3623,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 8 May 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h1>SE-0168: Multi-line strings</h1>
 <ul>
 <li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0168-multi-line-string-literals.md</li>
@@ -3690,7 +3690,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 1 May 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>String Manifesto: https://github.com/apple/swift/blob/master/docs/StringManifesto.md</li>
 <li>Chris Lattner on Swift 4 goals including String re-evaluation: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160725/025676.html</li>
@@ -3761,7 +3761,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 24 Apr 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h1>SE-0166: Swift Archival &amp; Serialization</h1>
 <ul>
 <li>NSCoding:
@@ -3837,7 +3837,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 17 Apr 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Access Control Roller Coaster</h3>
 <ul>
 <li>First came the private/fileprivate change (SE-0025): https://github.com/apple/swift-evolution/blob/master/proposals/0025-scoped-access-level.md</li>
@@ -3906,7 +3906,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 10 Apr 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Swift 3.1 Release</h3>
 <ul>
 <li>Official Swift 3.1 release post: https://swift.org/blog/swift-3-1-released/</li>
@@ -3982,7 +3982,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 3 Apr 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>There's been a much stronger focus on calling ObjC from Swift than the other way around, but in this talk we'll cover both directions and the parts of the Swift language involved in the process.</p>
 <h3>ObjC Interop Overview</h3>
 <ul>
@@ -4052,7 +4052,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Swift has evolved since 1.x to have a fluctuating amount of magic/implicit bridging from ObjC and Foundation types, sometimes going in the opposite direction towards very explicit type conversions.</p>
 <p>We've started seeing more of what the &quot;steady state&quot; looks like as Swift 3.x/4.x development matures.</p>
 <p>In the early days, Swift users would need deep compiler internal implementation details to know which NSNumber-representable type could implicitly convert. As of <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0139-bridge-nsnumber-and-nsvalue.md">SE-0139</a> that's a lot clearer.</p>
@@ -4140,7 +4140,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 20 Mar 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Every Swift developer who has migrated code bases from Swift 1.x to 2.x, or even the more tedious 2.x to 3.x knows the pain of migrating to new Swift versions.</p>
 <p>In this episode, we cover:</p>
 <ul>
@@ -4247,7 +4247,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 13 Mar 2017 12:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>In this episode, we dive into the framework we love to hate to love: SourceKit.</p>
 <p>We wrap up with an overview of method dispatch in Swift.</p>
 <h3>SourceKit on Linux</h3>
@@ -4326,7 +4326,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 6 Mar 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>In this episode we take a look at the first full year of open source Swift development and the first complete release cycle (for 3.0) that happened completely in the open. We reflect on where we've been and how we got here. We discuss the initial launch, Swift evolution, the &quot;Great Swift 3 Migration&quot;, and more!</p>
 <ul>
 <li>Open source <a href="https://developer.apple.com/swift/blog/?id=34">announcement</a></li>
@@ -4372,7 +4372,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Fri, 24 Feb 2017 13:00:00 +0000</pubDate>
       <author>shows@spec.fm (Spec)</author>
-      <link>https://spec.fm/podcasts/swift-unwrapped</link>
+      <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>There are tons of podcasts out there about general Apple/iOS/macOS development but nothing specifically about only the Swift programming language.</p>
 <p>So, we decided to make a podcast about the Swift language and a commentary on the <a href="https://swiftweekly.github.io/">Swift Weekly Brief</a>. This podcast is a continuation on more details about Swift Weekly and our own thoughts on Swift news.</p>
 <p>If you want to connect with us you can find us and reach out on twitter: <a href="https://twitter.com/simjp">JP Simard</a> &amp; <a href="https://twitter.com/jesse_squires">Jesse Squires</a></p>

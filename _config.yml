@@ -5,7 +5,7 @@ plugins:
 # theme
 theme: jekyll-theme-minimal
 title: 'Swift Unwrapped'
-description: 'An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.'
+description: 'Discussions on the Swift programming language and other projects at Swift.org'
 logo: /img/logo.jpg
 show_downloads: false
 twitter_handle: "@swift_unwrapped"

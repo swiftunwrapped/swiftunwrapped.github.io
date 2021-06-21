@@ -1,5 +1,6 @@
 # Episodes
 
+* [92: Deinit](/episodes/xyd_XEwO)
 * [91: Concurrency, 3 years later](/episodes/spdcC97m)
 * [90: Swift Atomics](/episodes/EDeUfIq2)
 * [89: Implementing the Swift Runtime in Swift, with Jordan Rose](/episodes/1DMLbJg5)

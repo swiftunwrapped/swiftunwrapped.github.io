@@ -20,7 +20,7 @@
     <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
-    <itunes:new-feed-url>https://feeds.simplecast.com/3pGv88mm</itunes:new-feed-url>
+    <itunes:new-feed-url>https://swiftunwrapped.github.io/feed.xml</itunes:new-feed-url>
     <itunes:keywords>Swift, LLVM, LLDB, Clang, Compilers, iOS, macOS, tvOS, watchOS, Technology, Swift Weekly Brief, Swift Package Manager, SPM, Swift Server, Apple, SourceKit, Xcode</itunes:keywords>
     <itunes:owner>
       <itunes:name>Spec Network, Inc.</itunes:name>

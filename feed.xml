@@ -16,15 +16,14 @@
     </image>
     <link>https://swiftunwrapped.github.io</link>
     <itunes:type>episodic</itunes:type>
-    <itunes:summary>An audio spin off of Swift Weekly Brief and discussions on the Swift programming language. </itunes:summary>
+    <itunes:summary>Discussions on the Swift programming language and other projects at Swift.org</itunes:summary>
     <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
     <itunes:new-feed-url>https://swiftunwrapped.github.io/feed.xml</itunes:new-feed-url>
     <itunes:keywords>Swift, LLVM, LLDB, Clang, Compilers, iOS, macOS, tvOS, watchOS, Technology, Swift Weekly Brief, Swift Package Manager, SPM, Swift Server, Apple, SourceKit, Xcode</itunes:keywords>
     <itunes:owner>
-      <itunes:name>Spec Network, Inc.</itunes:name>
-      <itunes:email>shows@spec.fm</itunes:email>
+      <itunes:name>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:name>
     </itunes:owner>
     <itunes:category text="Technology"/>
     <item>

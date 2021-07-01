@@ -12,14 +12,14 @@
     <image>
       <link>https://swiftunwrapped.github.io</link>
       <title>Swift Unwrapped</title>
-      <url>https://image.simplecastcdn.com/images/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a28195f8-ab73-4040-90cf-6b0ff94bf477/3000x3000/1557116952-artwork.jpg?aid=rss_feed</url>
+      <url>https://swiftunwrapped.github.io/img/logo.jpg</url>
     </image>
     <link>https://swiftunwrapped.github.io</link>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>An audio spin off of Swift Weekly Brief and discussions on the Swift programming language. </itunes:summary>
     <itunes:author>Spec, JP Simard, Jesse Squires</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://image.simplecastcdn.com/images/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a28195f8-ab73-4040-90cf-6b0ff94bf477/3000x3000/1557116952-artwork.jpg?aid=rss_feed"/>
+    <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
     <itunes:new-feed-url>https://feeds.simplecast.com/3pGv88mm</itunes:new-feed-url>
     <itunes:keywords>Swift, LLVM, LLDB, Clang, Compilers, iOS, macOS, tvOS, watchOS, Technology, Swift Weekly Brief, Swift Package Manager, SPM, Swift Server, Apple, SourceKit, Xcode</itunes:keywords>
     <itunes:owner>
@@ -149,7 +149,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="34345134" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b6787f56-3a6d-43cb-884e-820a1028bba1/87_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>87: Package Registries and Indexes</itunes:title>
       <itunes:author>Spec Network, Inc.</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/2715067c-341c-4704-8ff3-ab5f74ee1281/f53f606d-6e7e-480f-b270-9599a36aeb16/3000x3000/swift-unwrapped-art.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:35:42</itunes:duration>
       <itunes:summary>There&apos;s a lot happening recently in the world of package managers, registries and indexes. Let&apos;s unwrap that.</itunes:summary>
       <itunes:subtitle>There&apos;s a lot happening recently in the world of package managers, registries and indexes. Let&apos;s unwrap that.</itunes:subtitle>
@@ -171,7 +171,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="38973156" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/641073f1-f00c-4303-b83d-140a78ceab87/project-86v2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>86: Tuples</itunes:title>
       <itunes:author>Spec Network, Inc.</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/2715067c-341c-4704-8ff3-ab5f74ee1281/2fa51834-b88e-4197-a2ad-025dc36e4a30/3000x3000/swift-unwrapped-art.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:32</itunes:duration>
       <itunes:summary>Is it pronounced &quot;Tuple&quot; or &quot;Tuple&quot;?</itunes:summary>
       <itunes:subtitle>Is it pronounced &quot;Tuple&quot; or &quot;Tuple&quot;?</itunes:subtitle>
@@ -221,7 +221,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="12276069" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8f254c9e-ffbc-438c-850e-2c09480eb5a5/85-swiftonwindowsv2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>85: Swift on Windows and other news</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8f254c9e-ffbc-438c-850e-2c09480eb5a5/3000x3000/1583089818-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:summary>Swift Foundation is now building on Windows and passing all tests, interop with C++ is being discussed on the forums, and new Swift libraries are available.</itunes:summary>
       <itunes:subtitle>Swift Foundation is now building on Windows and passing all tests, interop with C++ is being discussed on the forums, and new Swift libraries are available.</itunes:subtitle>
@@ -271,7 +271,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="31512580" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/34c97512-6201-477a-a478-b74d6ac2a7fd/84-swiftworldtour_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>84: Swift World Tour 2020</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/34c97512-6201-477a-a478-b74d6ac2a7fd/3000x3000/1580427888-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:45</itunes:duration>
       <itunes:summary>We discuss recent news, evolution proposals, and Swift 6</itunes:summary>
       <itunes:subtitle>We discuss recent news, evolution proposals, and Swift 6</itunes:subtitle>
@@ -307,7 +307,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="30742914" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/94ee22bc-9244-4aea-9145-d1b776f3888e/83-modifyaccessors_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>83: Modify Accessors</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/94ee22bc-9244-4aea-9145-d1b776f3888e/3000x3000/1578113303-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:summary>We discuss a recent Swift Evolution pitch from Ben Cohen on Modify Accessors.</itunes:summary>
       <itunes:subtitle>We discuss a recent Swift Evolution pitch from Ben Cohen on Modify Accessors.</itunes:subtitle>
@@ -355,7 +355,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="34621040" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/2c2ea7b8-9cd0-45ff-bae2-966977d4ab74/82_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>82: Swift&apos;s New Diagnostic Architecture</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/2c2ea7b8-9cd0-45ff-bae2-966977d4ab74/3000x3000/1575173492-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:36:00</itunes:duration>
       <itunes:summary>The way Swift reports compilation diagnostics like errors, warnings and fixits is about to improve in Swift 5.2.</itunes:summary>
       <itunes:subtitle>The way Swift reports compilation diagnostics like errors, warnings and fixits is about to improve in Swift 5.2.</itunes:subtitle>
@@ -407,7 +407,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="25413788" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5136fbe5-9c97-4779-a22b-6fe5b2961229/81_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>81: Swift Compiler Driver</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5136fbe5-9c97-4779-a22b-6fe5b2961229/3000x3000/1572712328-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:24</itunes:duration>
       <itunes:summary>Would you like some Swift in your Swift? The compiler driver is getting a shiny new implementation in Swift and there&apos;s no shortage of opportunities to contribute.</itunes:summary>
       <itunes:subtitle>Would you like some Swift in your Swift? The compiler driver is getting a shiny new implementation in Swift and there&apos;s no shortage of opportunities to contribute.</itunes:subtitle>
@@ -459,7 +459,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="28708165" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/9e3c7017-37a3-4f34-9f94-c4cbccc1871c/80_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>80: Standard Library Preview Package</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/9e3c7017-37a3-4f34-9f94-c4cbccc1871c/3000x3000/1570295313-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:50</itunes:duration>
       <itunes:summary>The Swift of tomorrow... today! The Standard Library Preview Package would allow you to try out upcoming Swift features before they officially ship with new language versions.</itunes:summary>
       <itunes:subtitle>The Swift of tomorrow... today! The Standard Library Preview Package would allow you to try out upcoming Swift features before they officially ship with new language versions.</itunes:subtitle>
@@ -505,7 +505,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="50234723" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e4296fcf-b739-4226-9cdd-1cdaf34bae5c/79_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>79: Swift 5.1 with Doug Gregor</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e4296fcf-b739-4226-9cdd-1cdaf34bae5c/3000x3000/1568513968-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:52:16</itunes:duration>
       <itunes:summary>We invite special guest, Doug Gregor, back to the show to discuss all things Swift 5.1</itunes:summary>
       <itunes:subtitle>We invite special guest, Doug Gregor, back to the show to discuss all things Swift 5.1</itunes:subtitle>
@@ -551,7 +551,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="28831488" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e3a1605d-aa61-483c-b135-dd39c75bc077/78_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>78: Binary Dependencies in Swift Package Manager</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e3a1605d-aa61-483c-b135-dd39c75bc077/3000x3000/1567297343-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:58</itunes:duration>
       <itunes:summary>What&apos;s one feature missing from the Swift Package Manager that CocoaPods has had for years? Binary dependencies! But how would this work in SPM?</itunes:summary>
       <itunes:subtitle>What&apos;s one feature missing from the Swift Package Manager that CocoaPods has had for years? Binary dependencies! But how would this work in SPM?</itunes:subtitle>
@@ -603,7 +603,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="24446216" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a6992481-1ec7-4d05-a4d2-1d57cd6f520a/77_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>77: Generic Math Functions and Approximate Equality</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a6992481-1ec7-4d05-a4d2-1d57cd6f520a/3000x3000/1564796280-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:summary>We discuss the new generic math functions coming to Swift, as well as approximate equality for floating point numbers.</itunes:summary>
       <itunes:subtitle>We discuss the new generic math functions coming to Swift, as well as approximate equality for floating point numbers.</itunes:subtitle>
@@ -671,7 +671,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="30380815" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/234e904c-9511-47ee-9fa8-658b58c60878/76_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>76: Property Wrappers</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/234e904c-9511-47ee-9fa8-658b58c60878/3000x3000/1561865782-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:34</itunes:duration>
       <itunes:summary>A concept that&apos;s been in and out of conversation for Swift since 2015, property behaviors - uh, delegates - uh, wrappers - are now back with the full weight of SwiftUI behind it.</itunes:summary>
       <itunes:subtitle>A concept that&apos;s been in and out of conversation for Swift since 2015, property behaviors - uh, delegates - uh, wrappers - are now back with the full weight of SwiftUI behind it.</itunes:subtitle>
@@ -733,7 +733,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="26943019" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/bad49a09-7e7d-442f-984f-3234da02fa5a/75-build-systems-w-keith-smiley_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>75: Swift Build Systems w/ Keith Smiley</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/bad49a09-7e7d-442f-984f-3234da02fa5a/3000x3000/1559446118-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:summary>In this episode with special guest Keith Smiley, we cover the growing number of  tools that let you build things in Swift, a few of which are made by Apple, as well as some others like CMake, Bazel and Buck.</itunes:summary>
       <itunes:subtitle>In this episode with special guest Keith Smiley, we cover the growing number of  tools that let you build things in Swift, a few of which are made by Apple, as well as some others like CMake, Bazel and Buck.</itunes:subtitle>
@@ -799,7 +799,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="33463274" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/6a1f3e80-2343-4c5e-ac0e-53a8ceea62b5/74_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>74: Removing Things From Swift</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/6a1f3e80-2343-4c5e-ac0e-53a8ceea62b5/3000x3000/1557116919-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:34:47</itunes:duration>
       <itunes:summary>Although we usually discuss new features being added to Swift, this episode is all about removing things from the language.</itunes:summary>
       <itunes:subtitle>Although we usually discuss new features being added to Swift, this episode is all about removing things from the language.</itunes:subtitle>
@@ -857,7 +857,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="25377849" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7e3b0edd-7187-4200-93a7-fb04b40598cf/project-73_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>73: UTF-8 Strings in Swift 5</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7e3b0edd-7187-4200-93a7-fb04b40598cf/3000x3000/1553811506-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:22</itunes:duration>
       <itunes:summary></itunes:summary>
       <itunes:subtitle></itunes:subtitle>
@@ -925,7 +925,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="38831987" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/187ac56a-0044-47bb-bd37-cf08d274ae77/72-official-styleguide-and-formatter_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>72: Pitch for Official Style Guide &amp; Formatter for Swift</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/187ac56a-0044-47bb-bd37-cf08d274ae77/3000x3000/1551583593-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:22</itunes:duration>
       <itunes:summary>In what is sure to lead to significant community discussion, there&apos;s now a pitch for adding a style guide and formatter to Swift.
 ​</itunes:summary>
@@ -997,7 +997,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="27475088" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b06bf92c-00f5-48d3-bb43-b3eaae14c4fd/71-key-path-expressions-as-functional-dependencies_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>71: Key Path Expressions as Functions</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b06bf92c-00f5-48d3-bb43-b3eaae14c4fd/3000x3000/1548821422-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:28:33</itunes:duration>
       <itunes:summary>If this proposal is accepted, we&apos;ll be seeing Key Paths in a lot more places.</itunes:summary>
       <itunes:subtitle>If this proposal is accepted, we&apos;ll be seeing Key Paths in a lot more places.</itunes:subtitle>
@@ -1057,7 +1057,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="19523053" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8cdd945e-9641-42a4-a8ba-7b79fc8f3404/70-sourcekit-lsp_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>70: SourceKit-LSP</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8cdd945e-9641-42a4-a8ba-7b79fc8f3404/3000x3000/1546304987-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:20:16</itunes:duration>
       <itunes:summary>The Swift project is working on official support for the industry-standard Language Server Protocol and we can barely contain our excitement.</itunes:summary>
       <itunes:subtitle>The Swift project is working on official support for the industry-standard Language Server Protocol and we can barely contain our excitement.</itunes:subtitle>
@@ -1097,7 +1097,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="24471594" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/43ae0c67-df77-48fb-8591-b7595e53661e/69-proposal-to-add-restult_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>69: Result</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/43ae0c67-df77-48fb-8591-b7595e53661e/3000x3000/1543733633-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:summary>It&apos;s the most wonderful time of the year again... the time when the Swift community considers adding a Result type to the standard library. Except that this time it&apos;ll probably work!</itunes:summary>
       <itunes:subtitle>It&apos;s the most wonderful time of the year again... the time when the Swift community considers adding a Result type to the standard library. Except that this time it&apos;ll probably work!</itunes:subtitle>
@@ -1137,7 +1137,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="15809542" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/033cae49-ad27-456e-b678-c2c062191461/68-opaque-result-types_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>68: Opaque Result Types</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/033cae49-ad27-456e-b678-c2c062191461/3000x3000/1541382828-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:16:24</itunes:duration>
       <itunes:summary>In this episode, Jesse and JP dive in to opaque result types, which could help prevent leaking of implementation details to library consumers.</itunes:summary>
       <itunes:subtitle>In this episode, Jesse and JP dive in to opaque result types, which could help prevent leaking of implementation details to library consumers.</itunes:subtitle>
@@ -1183,7 +1183,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="27169628" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/41fe97d1-9d3e-43a5-9691-25bdd82c0779/67-raw-string_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>67: Raw Strings</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/41fe97d1-9d3e-43a5-9691-25bdd82c0779/3000x3000/1539555179-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:summary>String literals are the gift that keep on giving with each Swift version, and Swift 5 is no exception, with raw strings.</itunes:summary>
       <itunes:subtitle>String literals are the gift that keep on giving with each Swift version, and Swift 5 is no exception, with raw strings.</itunes:subtitle>
@@ -1221,7 +1221,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="32794939" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8ba0546f-7f40-4469-a211-1027b5ac86e2/project-66_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>66: Plan For Module Stability</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8ba0546f-7f40-4469-a211-1027b5ac86e2/3000x3000/1534610922-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:34:06</itunes:duration>
       <itunes:summary>We discuss Jordan Rose&apos;s recent forums post on a proposed plan for module stability.</itunes:summary>
       <itunes:subtitle>We discuss Jordan Rose&apos;s recent forums post on a proposed plan for module stability.</itunes:subtitle>
@@ -1257,7 +1257,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="9516326" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a79347e7-d080-48db-9e7a-dec3f1426db5/65-literal-initialization-via-coercion_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>65: Literal Initialization Via Coercion</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a79347e7-d080-48db-9e7a-dec3f1426db5/3000x3000/1529888289-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:09:50</itunes:duration>
       <itunes:summary>A recent type checking speedup had very small source compatibility breakages, but nonetheless went through the evolution process and it was accepted!</itunes:summary>
       <itunes:subtitle>A recent type checking speedup had very small source compatibility breakages, but nonetheless went through the evolution process and it was accepted!</itunes:subtitle>
@@ -1295,7 +1295,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="30937092" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f7b9fbd4-a09e-4457-9abe-39458e2dcebe/64-never_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>64: Never</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f7b9fbd4-a09e-4457-9abe-39458e2dcebe/3000x3000/1529787373-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:summary>The Never type has some very unique properties and behavior. We introduce the type and discuss a recent proposal (SE-215) to make it conform to Hashable and Equatable.</itunes:summary>
       <itunes:subtitle>The Never type has some very unique properties and behavior. We introduce the type and discuss a recent proposal (SE-215) to make it conform to Hashable and Equatable.</itunes:subtitle>
@@ -1337,7 +1337,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="43470224" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5dcadaf5-0987-4564-9ed9-c21e5e94dcbf/61-swift-algorithms-and-data-structures-with-kelvin-lau-and-vincent-ngo_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>63: Swift algorithms and data structures (feat. Kelvin Lau &amp; Vincent Ngo)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5dcadaf5-0987-4564-9ed9-c21e5e94dcbf/3000x3000/1526582587-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:45:12</itunes:duration>
       <itunes:summary>We welcome Kelvin and Vincent to the show to discuss Data Structures and Algorithms in Swift.</itunes:summary>
       <itunes:subtitle>We welcome Kelvin and Vincent to the show to discuss Data Structures and Algorithms in Swift.</itunes:subtitle>
@@ -1371,7 +1371,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="47236284" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e58dbe9c-430e-48e5-8444-65f5d2da5100/ted-kremenek_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>62: Interview with Ted Kremenek</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e58dbe9c-430e-48e5-8444-65f5d2da5100/3000x3000/1528594721-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:49:08</itunes:duration>
       <itunes:summary>An in-depth conversation about Swift 4.2 and beyond with Ted Kremenek, Manager of the Languages and Runtimes team at Apple.</itunes:summary>
       <itunes:subtitle>An in-depth conversation about Swift 4.2 and beyond with Ted Kremenek, Manager of the Languages and Runtimes team at Apple.</itunes:subtitle>
@@ -1413,7 +1413,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="41929152" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4420cdd7-d9ec-4285-b5fe-6811040df5c8/61-greg-heo-swiftunwrapped_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>61: WWDC reactions with Greg Heo</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4420cdd7-d9ec-4285-b5fe-6811040df5c8/3000x3000/1528513841-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:43:36</itunes:duration>
       <itunes:summary>We discuss the announcements from WWDC 2018 with special guest, Greg Heo.</itunes:summary>
       <itunes:subtitle>We discuss the announcements from WWDC 2018 with special guest, Greg Heo.</itunes:subtitle>
@@ -1463,7 +1463,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="17403646" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/ec245c2f-8cc8-45ee-ac90-c66da8811a30/60-character-properties_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>60: Character Properties</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/ec245c2f-8cc8-45ee-ac90-c66da8811a30/3000x3000/1526069364-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:18:03</itunes:duration>
       <itunes:summary>We discuss recent proposals on adding unicode properties to characters and Unicode.scalar.</itunes:summary>
       <itunes:subtitle>We discuss recent proposals on adding unicode properties to characters and Unicode.scalar.</itunes:subtitle>
@@ -1505,7 +1505,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="23458019" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/9d7fa712-39ad-457a-b090-ff4deabe88a2/59-escaping-closures_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>59: Implicit Escaping of Closures</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/9d7fa712-39ad-457a-b090-ff4deabe88a2/3000x3000/1526069281-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:24:22</itunes:duration>
       <itunes:summary>Escaping or non-escaping? That is the question.</itunes:summary>
       <itunes:subtitle>Escaping or non-escaping? That is the question.</itunes:subtitle>
@@ -1549,7 +1549,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="15924548" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/642a1037-d1c2-47a5-9d34-5e0abcb68a77/58-reimplementation-of-implicitly-unwrapped-optionals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>58: Reimplementation of Implicitly Unwrapped Optionals</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/642a1037-d1c2-47a5-9d34-5e0abcb68a77/3000x3000/1525820611-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:16:31</itunes:duration>
       <itunes:summary>IUOs are dead, long live IUOs! With this change, IUOs are no longer a type but rather a special variant of Optional.</itunes:summary>
       <itunes:subtitle>IUOs are dead, long live IUOs! With this change, IUOs are no longer a type but rather a special variant of Optional.</itunes:subtitle>
@@ -1605,7 +1605,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="39065281" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d987c101-6a78-4ae8-80c7-295b7ca5fad8/57-revisiting-tensorflow_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>57: Swift for TensorFlow Design Overview</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d987c101-6a78-4ae8-80c7-295b7ca5fad8/3000x3000/1525286307-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:37</itunes:duration>
       <itunes:summary>Now that Swift for TensorFlow has been open sourced and documentation is available, we share some very interesting findings.</itunes:summary>
       <itunes:subtitle>Now that Swift for TensorFlow has been open sourced and documentation is available, we share some very interesting findings.</itunes:subtitle>
@@ -1645,7 +1645,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="18527126" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5c213281-9104-498d-be10-d15b64a7b59f/56-se-206-hashable-enhancements_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>56: SE-206 Hashable Enhancements</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5c213281-9104-498d-be10-d15b64a7b59f/3000x3000/1524193202-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:19:13</itunes:duration>
       <itunes:summary>Swift will soon have a more robust hashing strategy, and it doesn&apos;t involve always returning zero for hashValue.</itunes:summary>
       <itunes:subtitle>Swift will soon have a more robust hashing strategy, and it doesn&apos;t involve always returning zero for hashValue.</itunes:subtitle>
@@ -1689,7 +1689,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="23395003" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/da8a81c5-cf62-46b1-a7c9-1bd1e5844933/55-se-202-random-unification_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>55: SE-202 Random Unification</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/da8a81c5-cf62-46b1-a7c9-1bd1e5844933/3000x3000/1524193059-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:24:18</itunes:duration>
       <itunes:summary>Randomness gets a long overdue Swift treatment.</itunes:summary>
       <itunes:subtitle>Randomness gets a long overdue Swift treatment.</itunes:subtitle>
@@ -1731,7 +1731,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="22850920" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b6a3fd5d-8692-48cc-a41b-752782516396/54-collection-sequence-proposals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>54: Collection &amp; Sequence Proposals</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b6a3fd5d-8692-48cc-a41b-752782516396/3000x3000/1522870991-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:23:44</itunes:duration>
       <itunes:summary>We cover a few recent Collection &amp; Sequence Swift Evolution proposals.</itunes:summary>
       <itunes:subtitle>We cover a few recent Collection &amp; Sequence Swift Evolution proposals.</itunes:subtitle>
@@ -1771,7 +1771,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="20855561" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/699546bf-f16a-49ed-bb6a-079ef994eb9d/53-swift-for-tensorflow_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>53: Swift for TensorFlow</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/699546bf-f16a-49ed-bb6a-079ef994eb9d/3000x3000/1522868085-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:21:39</itunes:duration>
       <itunes:summary>It happened. Google forked Swift. Swift for Tensorflow has wide-reaching implications and we just had to share our thoughts.</itunes:summary>
       <itunes:subtitle>It happened. Google forked Swift. Swift for Tensorflow has wide-reaching implications and we just had to share our thoughts.</itunes:subtitle>
@@ -1807,7 +1807,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="21807266" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/60121283-ed97-4b30-92e1-934aaa46a06f/52_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>52: Package Manager Proposals</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/60121283-ed97-4b30-92e1-934aaa46a06f/3000x3000/1522644170-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:38</itunes:duration>
       <itunes:summary>We cover two recent Swift Package Manager proposal pitches.</itunes:summary>
       <itunes:subtitle>We cover two recent Swift Package Manager proposal pitches.</itunes:subtitle>
@@ -1847,7 +1847,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="30822268" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b0d0ed63-d512-4910-8a6d-9ad8670be908/51-doug-and-ben-part-2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>51: Swift 4.1 w/ Doug &amp; Ben (part 2)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b0d0ed63-d512-4910-8a6d-9ad8670be908/3000x3000/1521232730-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:summary>We go over the Swift 4.1 release highlights with Ben Cohen and Doug Gregor from the Swift team. Part 2 of 2.</itunes:summary>
       <itunes:subtitle>We go over the Swift 4.1 release highlights with Ben Cohen and Doug Gregor from the Swift team. Part 2 of 2.</itunes:subtitle>
@@ -1887,7 +1887,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="18147541" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/c9bed05a-df75-499f-b04c-b27aec4d8e84/50-doug-and-ben-part-1_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>50: Swift 4.1 w/ Doug &amp; Ben (part 1)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/c9bed05a-df75-499f-b04c-b27aec4d8e84/3000x3000/1521232734-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:18:50</itunes:duration>
       <itunes:summary>We go over the Swift 4.1 release highlights with Ben Cohen and Doug Gregor from the Swift team. Part 1 of 2.</itunes:summary>
       <itunes:subtitle>We go over the Swift 4.1 release highlights with Ben Cohen and Doug Gregor from the Swift team. Part 1 of 2.</itunes:subtitle>
@@ -1919,7 +1919,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="34113985" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/eedb656b-9197-47aa-b979-f53b4770bb04/49-swift-unwrapped-protocols-wishlist_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>49: Swift Protocol Wishlist</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/eedb656b-9197-47aa-b979-f53b4770bb04/3000x3000/1519426955-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:47:17</itunes:duration>
       <itunes:summary>Thoughts on Dave DeLong&apos;s &quot;protocol wishlist&quot; for Swift and other ideas for improving Swift&apos;s protocols.</itunes:summary>
       <itunes:subtitle>Thoughts on Dave DeLong&apos;s &quot;protocol wishlist&quot; for Swift and other ideas for improving Swift&apos;s protocols.</itunes:subtitle>
@@ -1953,7 +1953,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="32448949" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/be309391-e715-4edf-a57f-4feb95fd5858/48-googlesummerofcode_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>48: Google Summer Of Code 2018</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/be309391-e715-4edf-a57f-4feb95fd5858/3000x3000/1519420967-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:44</itunes:duration>
       <itunes:summary>Swift.org is officially participating in the Google Summer of Code program, and there are some great project ideas.</itunes:summary>
       <itunes:subtitle>Swift.org is officially participating in the Google Summer of Code program, and there are some great project ideas.</itunes:subtitle>
@@ -2001,7 +2001,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="19570846" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/2a5c9ab9-ecd1-4211-a3b1-569ccf7775e0/47-revamp-playgrounds_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>47: Revamping QuickLook Playground APIs</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/2a5c9ab9-ecd1-4211-a3b1-569ccf7775e0/3000x3000/1517959698-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:20:19</itunes:duration>
       <itunes:summary>We discuss Connor Wakamo&apos;s proposal to revamp the Playground QuickLook APIs</itunes:summary>
       <itunes:subtitle>We discuss Connor Wakamo&apos;s proposal to revamp the Playground QuickLook APIs</itunes:subtitle>
@@ -2049,7 +2049,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="14696554" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f3757aca-5b46-47a1-9135-a162dd64c141/46-new-proposals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>46: Restricting cross-module struct initializers</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f3757aca-5b46-47a1-9135-a162dd64c141/3000x3000/1517956756-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:15:14</itunes:duration>
       <itunes:summary>We discuss Jordan Rose&apos;s proposal to address issues with struct initializers</itunes:summary>
       <itunes:subtitle>We discuss Jordan Rose&apos;s proposal to address issues with struct initializers</itunes:subtitle>
@@ -2111,7 +2111,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="25112089" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/225c62f6-62e0-4424-bad7-dd230e0b831a/45-recent-news_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>45: Swift News January 2018</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/225c62f6-62e0-4424-bad7-dd230e0b831a/3000x3000/1517017461-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:05</itunes:duration>
       <itunes:summary>The pace is picking up early 2018, so there&apos;s a lot to cover.</itunes:summary>
       <itunes:subtitle>The pace is picking up early 2018, so there&apos;s a lot to cover.</itunes:subtitle>
@@ -2141,7 +2141,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="11442722" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/88f0889d-a510-44c4-ab0f-559355cf98c2/44-swift-weekly-brief_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>44: Swift Bi-Weekly Brief</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/88f0889d-a510-44c4-ab0f-559355cf98c2/3000x3000/1516935519-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:11:51</itunes:duration>
       <itunes:summary>The King is dead, long live the King!</itunes:summary>
       <itunes:subtitle>The King is dead, long live the King!</itunes:subtitle>
@@ -2173,7 +2173,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="23289325" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d4cf620f-3176-479f-bc09-cbcdc8b650db/43-stateofstring_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>43: State of String</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d4cf620f-3176-479f-bc09-cbcdc8b650db/3000x3000/1516065258-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:24:11</itunes:duration>
       <itunes:summary>We dissect Michael Ilseman&apos;s recent document with potential optimizations and improvements to String in preparation for ABI stability.</itunes:summary>
       <itunes:subtitle>We dissect Michael Ilseman&apos;s recent document with potential optimizations and improvements to String in preparation for ABI stability.</itunes:subtitle>
@@ -2215,7 +2215,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="13334811" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7ac06d5e-4a1d-4a81-a03d-b486d4b40223/42-roadmaping_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>42: Conditional Conformance</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7ac06d5e-4a1d-4a81-a03d-b486d4b40223/3000x3000/1515717611-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:13:49</itunes:duration>
       <itunes:summary>Swift 4.1 will include support for conditional protocol conformance, and we&apos;re excited to use it!</itunes:summary>
       <itunes:subtitle>Swift 4.1 will include support for conditional protocol conformance, and we&apos;re excited to use it!</itunes:subtitle>
@@ -2247,7 +2247,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="22725539" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d3ee70a2-1165-4329-8998-b82296006fe0/41-improving-performance_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>41: Improving Compilation Performance</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d3ee70a2-1165-4329-8998-b82296006fe0/3000x3000/1513283451-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:23:36</itunes:duration>
       <itunes:summary>We discuss the recent efforts improving &amp; instrumenting the Swift compiler&apos;s performance.</itunes:summary>
       <itunes:subtitle>We discuss the recent efforts improving &amp; instrumenting the Swift compiler&apos;s performance.</itunes:subtitle>
@@ -2301,7 +2301,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="20788733" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8a89de6b-42e8-4fde-b723-1d284960eb75/40-dynamic-number-lookup-proposal_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>40: Dynamic Member Lookup Proposal</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8a89de6b-42e8-4fde-b723-1d284960eb75/3000x3000/1513054038-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:21:35</itunes:duration>
       <itunes:summary>We discuss Chris Lattner&apos;s recent &quot;Dynamic Member Lookup&quot; proposal.</itunes:summary>
       <itunes:subtitle>We discuss Chris Lattner&apos;s recent &quot;Dynamic Member Lookup&quot; proposal.</itunes:subtitle>
@@ -2335,7 +2335,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="25085608" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3e80f055-47d1-4a5f-a17c-46daae9e28fc/39-swift-source-compatibility-suite_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>39: Source Compatibility Suite Woes</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3e80f055-47d1-4a5f-a17c-46daae9e28fc/3000x3000/1512611494-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:summary>The source compatibility suite has been useful in catching compatibility issues before official Swift releases are cut, but it leaves much to be desired especially around communication with project maintainers outside Apple.</itunes:summary>
       <itunes:subtitle>The source compatibility suite has been useful in catching compatibility issues before official Swift releases are cut, but it leaves much to be desired especially around communication with project maintainers outside Apple.</itunes:subtitle>
@@ -2385,7 +2385,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="22720383" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3b3a3df2-823c-44f1-a729-b71332353d91/38-data-bases-concurrency-threading_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>38: Off to the Races</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3b3a3df2-823c-44f1-a729-b71332353d91/3000x3000/1511997574-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:23:35</itunes:duration>
       <itunes:summary>Think thread safety with Swift is the same as C languages, with slightly different syntax? Think again!</itunes:summary>
       <itunes:subtitle>Think thread safety with Swift is the same as C languages, with slightly different syntax? Think again!</itunes:subtitle>
@@ -2419,7 +2419,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="22068053" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0c2522ea-b3c8-4d72-a96b-653fdee6a484/37-enum-case-enumerable-proposal_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>37: Enum Case Enumerable Proposal</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0c2522ea-b3c8-4d72-a96b-653fdee6a484/3000x3000/1510274605-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:55</itunes:duration>
       <itunes:summary>Enumerate. All. The. Cases.</itunes:summary>
       <itunes:subtitle>Enumerate. All. The. Cases.</itunes:subtitle>
@@ -2461,7 +2461,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="19230976" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3ff00000-92a9-44e0-9f7a-f19dc57e3162/36-swift-evolution-topics_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>36: Swift Evolution - Current Topics &amp; Proposals</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3ff00000-92a9-44e0-9f7a-f19dc57e3162/3000x3000/1510263786-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:19:57</itunes:duration>
       <itunes:summary>Brief discussion around some recent proposals.</itunes:summary>
       <itunes:subtitle>Brief discussion around some recent proposals.</itunes:subtitle>
@@ -2513,7 +2513,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="32007984" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/da4542a6-eb11-4838-b2e6-aec756244292/35-performance-profiling-on-linux_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>35: Performance Profiling on Linux</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/da4542a6-eb11-4838-b2e6-aec756244292/3000x3000/1508459481-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:16</itunes:duration>
       <itunes:summary>How do you even profile without Instruments.app?</itunes:summary>
       <itunes:subtitle>How do you even profile without Instruments.app?</itunes:subtitle>
@@ -2549,7 +2549,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="21278522" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f00dfd79-3a7e-46aa-9ac5-d0147cf8597e/34-floating-point_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>34: Floating-Point</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f00dfd79-3a7e-46aa-9ac5-d0147cf8597e/3000x3000/1508373199-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:05</itunes:duration>
       <itunes:summary>We discuss Swift’s numeric protocols and types, especially those of the floating point variety.</itunes:summary>
       <itunes:subtitle>We discuss Swift’s numeric protocols and types, especially those of the floating point variety.</itunes:subtitle>
@@ -2615,7 +2615,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="18088665" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b535714c-2b4b-4d7e-88d8-d0bb05e85431/33-http_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>33: HTTP server v0.1.0</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b535714c-2b4b-4d7e-88d8-d0bb05e85431/3000x3000/1507250175-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:18:46</itunes:duration>
       <itunes:summary>We discuss the first release of the HTTP server library from the Swift Server APIs project.</itunes:summary>
       <itunes:subtitle>We discuss the first release of the HTTP server library from the Swift Server APIs project.</itunes:subtitle>
@@ -2655,7 +2655,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="21464943" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7ba08528-4152-4f09-a9f3-22e7beb20dab/32-migratingtoswift4_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>32: Migrating to Swift 4</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7ba08528-4152-4f09-a9f3-22e7beb20dab/3000x3000/1507247637-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:17</itunes:duration>
       <itunes:summary>Since many of you are probably migrating to Swift 4 as you listen to this, we figured we&apos;d share our thoughts on the transition.</itunes:summary>
       <itunes:subtitle>Since many of you are probably migrating to Swift 4 as you listen to this, we figured we&apos;d share our thoughts on the transition.</itunes:subtitle>
@@ -2715,7 +2715,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <enclosure length="24146990" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/319089de-aa5f-4d6c-892b-024e060eea48/31-compiletime_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>31: Compile Times</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/319089de-aa5f-4d6c-892b-024e060eea48/3000x3000/1506830929-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:05</itunes:duration>
       <itunes:summary>We share our tips for measuring &amp; improving Swift compilation times, as well as share some news about recent efforts to test compile times within the Swift repo.</itunes:summary>
       <itunes:subtitle>We share our tips for measuring &amp; improving Swift compilation times, as well as share some news about recent efforts to test compile times within the Swift repo.</itunes:subtitle>
@@ -2747,7 +2747,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="30301872" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/ce4dca05-3f4f-4c2d-8e41-8e5ded7eee7c/30-weak-references-mike-ash_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>30: Weak References with Mike Ash</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/ce4dca05-3f4f-4c2d-8e41-8e5ded7eee7c/3000x3000/1505949522-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:29</itunes:duration>
       <itunes:summary>We welcome Mike Ash to the show to discuss the implementation details of weak references in Swift and how they&apos;ve changed.</itunes:summary>
       <itunes:subtitle>We welcome Mike Ash to the show to discuss the implementation details of weak references in Swift and how they&apos;ve changed.</itunes:subtitle>
@@ -2783,7 +2783,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="31753901" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d6039571-6970-4994-b8d9-75d73748aa26/29-technology_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>29: Notes from Ted Kremenek, Recent Proposals &amp; Xcode 9 GM</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d6039571-6970-4994-b8d9-75d73748aa26/3000x3000/1505695068-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:00</itunes:duration>
       <itunes:summary>We discuss some recent Swift Evolution proposals, Xcode 9 GM, along with a boatload of Follow Up (tm) from Ted Kremenek and Pierre Habouzit.</itunes:summary>
       <itunes:subtitle>We discuss some recent Swift Evolution proposals, Xcode 9 GM, along with a boatload of Follow Up (tm) from Ted Kremenek and Pierre Habouzit.</itunes:subtitle>
@@ -2833,7 +2833,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="31734595" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/942f3e25-a7d6-4dbf-8b62-3326253070ba/28-refactoring-engine_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>28: Refactoring Engine</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/942f3e25-a7d6-4dbf-8b62-3326253070ba/3000x3000/1504986712-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:59</itunes:duration>
       <itunes:summary>All about the recent refactoring pieces announced at WWDC 2017 and open sourced in the last few months.</itunes:summary>
       <itunes:subtitle>All about the recent refactoring pieces announced at WWDC 2017 and open sourced in the last few months.</itunes:subtitle>
@@ -2901,7 +2901,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="57295173" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/af11f028-e749-46e7-915d-1a2d1529b939/27-chris-lattner_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>27: Concurrency with Chris Lattner</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/af11f028-e749-46e7-915d-1a2d1529b939/3000x3000/1503600803-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:59:36</itunes:duration>
       <itunes:summary>We welcome Chris Lattner to the show to discuss concurrency in Swift 5 and beyond!</itunes:summary>
       <itunes:subtitle>We welcome Chris Lattner to the show to discuss concurrency in Swift 5 and beyond!</itunes:subtitle>
@@ -2931,7 +2931,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="33417241" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b307fe79-65a0-4293-a524-d0e5e89d123c/26-swift5_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>26: Swift 5 Goals</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b307fe79-65a0-4293-a524-d0e5e89d123c/3000x3000/1503600908-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:34:44</itunes:duration>
       <itunes:summary>We share our thoughts on the newly announced goals for Swift 5.</itunes:summary>
       <itunes:subtitle>We share our thoughts on the newly announced goals for Swift 5.</itunes:subtitle>
@@ -2963,7 +2963,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="25114944" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5b31a287-ea14-436c-8d8d-4516731b2661/25-abi-stability-calling-convention-runtime-and-standard-library_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>25: ABI Stability –  Calling Convention, Runtime and Standard Library</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5b31a287-ea14-436c-8d8d-4516731b2661/3000x3000/1502834005-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:05</itunes:duration>
       <itunes:summary>The fourth and final episode in our series on ABI Stability, we cover the remaining categories of decisions that must be made to stabilize the ABI.</itunes:summary>
       <itunes:subtitle>The fourth and final episode in our series on ABI Stability, we cover the remaining categories of decisions that must be made to stabilize the ABI.</itunes:subtitle>
@@ -2999,7 +2999,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="32570478" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/bdc44b4f-6b68-4c2f-bfed-a61b1b8dfc93/24-abi-stability-mangling_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>24: ABI Stability - Mangling</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/bdc44b4f-6b68-4c2f-bfed-a61b1b8dfc93/3000x3000/1502323486-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:51</itunes:duration>
       <itunes:summary>Continuing our series on ABI Stability with a third installment, we focus on the mangling component and address some past mistakes.</itunes:summary>
       <itunes:subtitle>Continuing our series on ABI Stability with a third installment, we focus on the mangling component and address some past mistakes.</itunes:subtitle>
@@ -3047,7 +3047,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="36135284" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/64f4054e-fe7f-407a-90e9-54c1b42afa65/23-abi-data-layout_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>23: ABI Stability – Data Layout and Metadata</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/64f4054e-fe7f-407a-90e9-54c1b42afa65/3000x3000/1501891793-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:34</itunes:duration>
       <itunes:summary>Following last week&apos;s episode on the big picture of ABI Stability, we focus on two categories of decisions that need to happen to get there: data layout and metadata.</itunes:summary>
       <itunes:subtitle>Following last week&apos;s episode on the big picture of ABI Stability, we focus on two categories of decisions that need to happen to get there: data layout and metadata.</itunes:subtitle>
@@ -3077,7 +3077,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="36902185" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/96281bdf-d8a7-42b6-adc1-4d6cdc3ad58a/22-abi-stability_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>22: ABI Stability – The Big Picture</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/96281bdf-d8a7-42b6-adc1-4d6cdc3ad58a/3000x3000/1501362145-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:38:22</itunes:duration>
       <itunes:summary>We clear up some of the misconceptions around what ABI stability means, how we&apos;ll get there and why it&apos;s important.</itunes:summary>
       <itunes:subtitle>We clear up some of the misconceptions around what ABI stability means, how we&apos;ll get there and why it&apos;s important.</itunes:subtitle>
@@ -3111,7 +3111,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="26235023" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0420d3d2-6780-4313-a5b2-a77b6732d4eb/21-newproposals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>21: New Proposals</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0420d3d2-6780-4313-a5b2-a77b6732d4eb/3000x3000/1500760748-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:summary>This week we dive into some of the recent proposals, including SE-0180, SE-0181, SE-0182, SE-0183</itunes:summary>
       <itunes:subtitle>This week we dive into some of the recent proposals, including SE-0180, SE-0181, SE-0182, SE-0183</itunes:subtitle>
@@ -3143,7 +3143,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="28326384" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/6bd2a1e4-241b-40fb-9bb2-c3c5fe470fb3/20-swift-migrator_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>20: Swift Migrator</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/6bd2a1e4-241b-40fb-9bb2-c3c5fe470fb3/3000x3000/1499980181-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:26</itunes:duration>
       <itunes:summary>We dissect the newly open sourced part of Swift tooling that helps us port our apps to the latest Swift version.</itunes:summary>
       <itunes:subtitle>We dissect the newly open sourced part of Swift tooling that helps us port our apps to the latest Swift version.</itunes:subtitle>
@@ -3177,7 +3177,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="30979470" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0cc3b9b4-fe77-4261-8b07-7121aa70d8fa/22_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>19: WWDC Reactions</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0cc3b9b4-fe77-4261-8b07-7121aa70d8fa/3000x3000/1499630397-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:42:56</itunes:duration>
       <itunes:summary>A month after WWDC, we share our thoughts on the announcements and events from the week.</itunes:summary>
       <itunes:subtitle>A month after WWDC, we share our thoughts on the announcements and events from the week.</itunes:subtitle>
@@ -3223,7 +3223,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="36266469" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4e4a91d7-9e9c-45be-b4fd-cd1a76ee9d6e/18-oss-spotlight_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>18: Community Open Source Spotlight</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4e4a91d7-9e9c-45be-b4fd-cd1a76ee9d6e/3000x3000/1496791930-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:42</itunes:duration>
       <itunes:summary>Taking a break from Swift itself, we shine the spotlight on the open source community and highlight some lesser-known open source Swift projects that we think are interesting!</itunes:summary>
       <itunes:subtitle>Taking a break from Swift itself, we shine the spotlight on the open source community and highlight some lesser-known open source Swift projects that we think are interesting!</itunes:subtitle>
@@ -3287,7 +3287,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="29883396" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4fddc14c-1844-486b-a289-d1162f2e176f/17-swift-testing_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>17: Testing Swift</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4fddc14c-1844-486b-a289-d1162f2e176f/3000x3000/1495497709-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:summary>Exploring the many different ways in which the Swift compiler is tested.</itunes:summary>
       <itunes:subtitle>Exploring the many different ways in which the Swift compiler is tested.</itunes:subtitle>
@@ -3321,7 +3321,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="34711245" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3c876c5d-2686-4b2c-94c0-b722f643dbcb/16-error-handling_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>16: Error Handling in Swift — A History</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3c876c5d-2686-4b2c-94c0-b722f643dbcb/3000x3000/1496791789-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:36:05</itunes:duration>
       <itunes:summary>The state of error handling in Swift and a brief history on how we got here, as well as comparisons to Objective-C.</itunes:summary>
       <itunes:subtitle>The state of error handling in Swift and a brief history on how we got here, as well as comparisons to Objective-C.</itunes:subtitle>
@@ -3365,7 +3365,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="29425349" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/401a9081-0886-4643-a347-2f2a20f6b384/16-what-is-new-with-swift-4-part-2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>15: What&apos;s New in Swift 4 (Part 2)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/401a9081-0886-4643-a347-2f2a20f6b384/3000x3000/1496116554-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:30:35</itunes:duration>
       <itunes:summary>Part two of our discussion on the new features and improvements in Swift 4! There were so many great things to discuss, we needed two episodes!</itunes:summary>
       <itunes:subtitle>Part two of our discussion on the new features and improvements in Swift 4! There were so many great things to discuss, we needed two episodes!</itunes:subtitle>
@@ -3415,7 +3415,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="25065199" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/c73ea98e-f98e-4448-8bf2-67adcf036bca/14-what-is-new-with-swift-4-part-1_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>14: What&apos;s New in Swift 4 (Part 1)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/c73ea98e-f98e-4448-8bf2-67adcf036bca/3000x3000/1496116453-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:02</itunes:duration>
       <itunes:summary>We discuss some of the new features and improvements in Swift 4!</itunes:summary>
       <itunes:subtitle>We discuss some of the new features and improvements in Swift 4!</itunes:subtitle>
@@ -3485,7 +3485,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="26505038" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b678161c-f1c3-48f9-bc6f-da9aff44f2b4/13-wwdcpredictions_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>13: WWDC Predictions</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b678161c-f1c3-48f9-bc6f-da9aff44f2b4/3000x3000/1495489380-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:summary>We share our hopes &amp; expectations for the Swift language at WWDC 2017.</itunes:summary>
       <itunes:subtitle>We share our hopes &amp; expectations for the Swift language at WWDC 2017.</itunes:subtitle>
@@ -3531,7 +3531,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="25803701" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/03e313d9-9a1d-4efd-884a-e95ba545ad61/12-swift-evolution_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>12: Swift Evolution</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/03e313d9-9a1d-4efd-884a-e95ba545ad61/3000x3000/1494901572-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:summary>We debate if Swift evolution is pulling its weight, and if it&apos;s possible for Swift to remain &quot;open&quot; without  the cost.</itunes:summary>
       <itunes:subtitle>We debate if Swift evolution is pulling its weight, and if it&apos;s possible for Swift to remain &quot;open&quot; without  the cost.</itunes:subtitle>
@@ -3581,7 +3581,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="28006354" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/23ea43f5-838e-4cb4-a9e5-4db00048b40b/11-the-ownership-manifesto_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>11: Ownership Manifesto</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/23ea43f5-838e-4cb4-a9e5-4db00048b40b/3000x3000/1494376167-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:06</itunes:duration>
       <itunes:summary>A brief overview of the complex topic of memory ownership revisions currently underway.</itunes:summary>
       <itunes:subtitle>A brief overview of the complex topic of memory ownership revisions currently underway.</itunes:subtitle>
@@ -3655,7 +3655,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="34485470" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/40579ec4-0543-4028-b5e4-57c06a3457e9/10_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>10: The Variety Show</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/40579ec4-0543-4028-b5e4-57c06a3457e9/3000x3000/1493344262-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:47:48</itunes:duration>
       <itunes:summary>We cover 3 recent Swift Evolution proposals and the new Swift Compatibility Test Suite.</itunes:summary>
       <itunes:subtitle>We cover 3 recent Swift Evolution proposals and the new Swift Compatibility Test Suite.</itunes:subtitle>
@@ -3715,7 +3715,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="37404160" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/29d93d56-01d6-427f-8b9b-61fb5e5928ea/09-string-manifesto_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>09: String Manifesto</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/29d93d56-01d6-427f-8b9b-61fb5e5928ea/3000x3000/1492799911-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:38:53</itunes:duration>
       <itunes:summary>We go in way over our heads into Swift&apos;s String Manifesto.</itunes:summary>
       <itunes:subtitle>We go in way over our heads into Swift&apos;s String Manifesto.</itunes:subtitle>
@@ -3797,7 +3797,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="28843306" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7abb2eb7-a74f-4eef-b2af-19b360ce9afe/08-proposalreviews_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>08: Archival Serialization &amp; Swift Encoders</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7abb2eb7-a74f-4eef-b2af-19b360ce9afe/3000x3000/1492637286-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:59</itunes:duration>
       <itunes:summary>We unpack the recent SE proposals on serialization &amp; encoding.</itunes:summary>
       <itunes:subtitle>We unpack the recent SE proposals on serialization &amp; encoding.</itunes:subtitle>
@@ -3867,7 +3867,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="36506140" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f4d33606-5e7d-45c0-baab-16265528d571/07-access-control_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>07: Access Control - The Saga Continues</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f4d33606-5e7d-45c0-baab-16265528d571/3000x3000/1491869910-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:57</itunes:duration>
       <itunes:summary>There has been a ton of debate on the Swift Evolution mailing lists about access control in Swift. We share our thoughts on the situation.</itunes:summary>
       <itunes:subtitle>There has been a ton of debate on the Swift Evolution mailing lists about access control in Swift. We share our thoughts on the situation.</itunes:subtitle>
@@ -3935,7 +3935,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="43065997" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/43598351-fe72-46a5-ac3c-c1fe7619094c/06-swift-3-1-release_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>06: Swift 3.1 Release &amp; SwiftPM Improvements</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/43598351-fe72-46a5-ac3c-c1fe7619094c/3000x3000/1491278516-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:44:47</itunes:duration>
       <itunes:summary>This week we celebrate the release of Swift 3.1 and the large set of improvements to SwiftPM that happened just under the wire.</itunes:summary>
       <itunes:subtitle>This week we celebrate the release of Swift 3.1 and the large set of improvements to SwiftPM that happened just under the wire.</itunes:subtitle>
@@ -4019,7 +4019,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="39221495" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4d4cb17a-c90c-4e34-8d11-6e0170c1b839/05-objectivec-interop_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>05: Objective-C Interoperability</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4d4cb17a-c90c-4e34-8d11-6e0170c1b839/3000x3000/1488675570-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:47</itunes:duration>
       <itunes:summary>Continuing from episode 4&apos;s take on Objective-C Bridging, in this episode we look at Objective-C interoperability.</itunes:summary>
       <itunes:subtitle>Continuing from episode 4&apos;s take on Objective-C Bridging, in this episode we look at Objective-C interoperability.</itunes:subtitle>
@@ -4075,7 +4075,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="28658447" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/924a610c-8d9a-466b-8e39-2ce293908cf4/04-bridging-with-objective-c_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>04: Bridging with Objective-C</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/924a610c-8d9a-466b-8e39-2ce293908cf4/3000x3000/1488673934-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:39:43</itunes:duration>
       <itunes:summary>There&apos;s been a constant push and pull on ObjC bridging since Swift 1.x, trying to seek a balance but always swaying in the other direction.</itunes:summary>
       <itunes:subtitle>There&apos;s been a constant push and pull on ObjC bridging since Swift 1.x, trying to seek a balance but always swaying in the other direction.</itunes:subtitle>
@@ -4195,7 +4195,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="28533506" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/666053de-af16-4453-bbe1-0c3f1c434846/03-source-stability_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>03: Source Stability (What is a Source Breaking Change?)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/666053de-af16-4453-bbe1-0c3f1c434846/3000x3000/1488673764-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:39</itunes:duration>
       <itunes:summary>The up (and down) sides of striving for source compatibility across Swift versions. Let&apos;s rearrange some deck chairs!</itunes:summary>
       <itunes:subtitle>The up (and down) sides of striving for source compatibility across Swift versions. Let&apos;s rearrange some deck chairs!</itunes:subtitle>
@@ -4289,7 +4289,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="31277368" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0a8f7b8f-2786-4ee1-8d05-903664172bbd/02-sourcekit_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>02: SourceKit (Compiling by Default)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0a8f7b8f-2786-4ee1-8d05-903664172bbd/3000x3000/1488673610-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:31</itunes:duration>
       <itunes:summary>The tumultuous tales of the community getting SourceKit compiling on Linux.</itunes:summary>
       <itunes:subtitle>The tumultuous tales of the community getting SourceKit compiling on Linux.</itunes:subtitle>
@@ -4353,7 +4353,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="36189257" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5ef79daf-bbc9-4654-a335-0f4f7c02bd61/01-already-only_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>01: Already &amp; Only (Swift Open Source Year in Review)</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5ef79daf-bbc9-4654-a335-0f4f7c02bd61/3000x3000/1488673308-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:38</itunes:duration>
       <itunes:summary>A retrospective on one year of open source Swift.</itunes:summary>
       <itunes:subtitle>A retrospective on one year of open source Swift.</itunes:subtitle>
@@ -4381,7 +4381,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
       <enclosure length="2640439" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4ae1942a-835e-4096-a3b1-da86ddc3c902/00-swift-unwrapped_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>00: And We&apos;re Live!</itunes:title>
       <itunes:author>Spec</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4ae1942a-835e-4096-a3b1-da86ddc3c902/3000x3000/1488077803-artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:02:41</itunes:duration>
       <itunes:summary>Welcome to Swift Unwrapped!
 

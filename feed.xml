@@ -4,8 +4,8 @@
     <atom:link href="https://swiftunwrapped.github.io/feed.xml" rel="self" type="application/atom+xml" />
 
     <title>Swift Unwrapped</title>
-    <description>An audio spin off of Swift Weekly Brief and discussions on the Swift programming language. </description>
-    <copyright>2020 Spec Network, Inc.</copyright>
+    <description>Discussions on the Swift programming language and other projects at Swift.org</description>
+    <copyright>2020 JP Simard, Jesse Squires, Spec Network, Inc.</copyright>
     <language>en</language>
     <pubDate>Mon, 21 Jun 2021 12:00:00 +0000</pubDate>
     <lastBuildDate>Mon, 21 Jun 2021 12:00:10 +0000</lastBuildDate>

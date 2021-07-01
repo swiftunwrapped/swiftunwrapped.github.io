@@ -17,7 +17,7 @@
     <link>https://swiftunwrapped.github.io</link>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>An audio spin off of Swift Weekly Brief and discussions on the Swift programming language. </itunes:summary>
-    <itunes:author>Spec, JP Simard, Jesse Squires</itunes:author>
+    <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
     <itunes:new-feed-url>https://feeds.simplecast.com/3pGv88mm</itunes:new-feed-url>
@@ -33,13 +33,13 @@
       <description><![CDATA[<ul><li><a href="https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5">Paul Hudson's What's New in Swift 5.5</a></li><li><a href="https://swiftbysundell.com/">Swift By Sundell</a></li><li><a href="https://github.com/davedelong/time">Time by Dave DeLong</a> (mistakenly called Chronos during the show)</li></ul>
 ]]></description>
       <pubDate>Mon, 21 Jun 2021 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul><li><a href="https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5">Paul Hudson's What's New in Swift 5.5</a></li><li><a href="https://swiftbysundell.com/">Swift By Sundell</a></li><li><a href="https://github.com/davedelong/time">Time by Dave DeLong</a> (mistakenly called Chronos during the show)</li></ul>
 ]]></content:encoded>
       <enclosure length="27800880" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/9415a7c4-e767-4bc1-8438-e67ff03a542c/audio/59932e5c-d516-4f64-9e02-b1923f03261d/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>92: Deinit</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:summary>Jesse and JP talk about Swift 5.5, WWDC 21, how the Swift community has evolved in the 7 years of the language, and wrapping up the show. This is our last episode.
 
@@ -58,13 +58,13 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <description><![CDATA[<h3>Links</h3><ul><li><a href="https://forums.swift.org/t/swift-concurrency-roadmap/41611">Swift concurrency roadmap</a></li><li><a href="https://swiftunwrapped.github.io/episodes/409cbdc5/">Episode 27: Concurrency with Chris Lattner</a></li><li><a href="https://forums.swift.org/t/concurrency-actors-actor-isolation/41613">[Concurrency] Actors & actor isolation</a></li><li><a href="https://forums.swift.org/t/concurrency-interoperability-with-objective-c/41616">[Concurrency] Interoperability with Objective-C</a></li><li><a href="https://forums.swift.org/t/concurrency-structured-concurrency/41622">[Concurrency] Structured concurrency</a></li><li><a href="https://forums.swift.org/t/concurrency-asynchronous-functions/41619">[Concurrency] Asynchronous functions</a></li><li><a href="https://forums.swift.org/t/concurrency-asyncsequence/42417">[Concurrency] AsyncSequence</a></li><li><a href="https://gist.github.com/DougGregor/444575ac67cbd25bfc4b1d4fd241ae93">Swift Concurrency Proposals Dependencies Graph</a></li><li><a href="https://docs.google.com/document/d/1BEO6QwzcYCUhaGyA-WRoM_phRa7O7mGPNIMdSV4StEE">Protocol-based Actor Isolation: Draft #2</a></li><li><a href="https://forums.swift.org/t/actors-are-reference-types-but-why-classes/42281">Actors are reference types, but why classes?</a></li></ul><h3>Sponsors</h3><ul><li><strong>AWS Amplify</strong> - AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p>
 ]]></description>
       <pubDate>Mon, 7 Dec 2020 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Links</h3><ul><li><a href="https://forums.swift.org/t/swift-concurrency-roadmap/41611">Swift concurrency roadmap</a></li><li><a href="https://swiftunwrapped.github.io/episodes/409cbdc5/">Episode 27: Concurrency with Chris Lattner</a></li><li><a href="https://forums.swift.org/t/concurrency-actors-actor-isolation/41613">[Concurrency] Actors & actor isolation</a></li><li><a href="https://forums.swift.org/t/concurrency-interoperability-with-objective-c/41616">[Concurrency] Interoperability with Objective-C</a></li><li><a href="https://forums.swift.org/t/concurrency-structured-concurrency/41622">[Concurrency] Structured concurrency</a></li><li><a href="https://forums.swift.org/t/concurrency-asynchronous-functions/41619">[Concurrency] Asynchronous functions</a></li><li><a href="https://forums.swift.org/t/concurrency-asyncsequence/42417">[Concurrency] AsyncSequence</a></li><li><a href="https://gist.github.com/DougGregor/444575ac67cbd25bfc4b1d4fd241ae93">Swift Concurrency Proposals Dependencies Graph</a></li><li><a href="https://docs.google.com/document/d/1BEO6QwzcYCUhaGyA-WRoM_phRa7O7mGPNIMdSV4StEE">Protocol-based Actor Isolation: Draft #2</a></li><li><a href="https://forums.swift.org/t/actors-are-reference-types-but-why-classes/42281">Actors are reference types, but why classes?</a></li></ul><h3>Sponsors</h3><ul><li><strong>AWS Amplify</strong> - AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p>
 ]]></content:encoded>
       <enclosure length="43224292" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/0248870d-280f-4df1-8693-c659a1210f4d/audio/1e27b922-a9a5-4678-9203-a539ef1f7b58/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>91: Concurrency, 3 years later</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:duration>00:44:57</itunes:duration>
       <itunes:summary>Three years after first discussing concurrency in Swift with Chris Lattner, we dive into the latest round of proposals and forum discussions — although this time it is actually happening.</itunes:summary>
       <itunes:subtitle>Three years after first discussing concurrency in Swift with Chris Lattner, we dive into the latest round of proposals and forum discussions — although this time it is actually happening.</itunes:subtitle>
@@ -79,13 +79,13 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <description><![CDATA[<h3>Links</h3><ul><li><a href="https://swift.org/blog/swift-atomics/">Announcement blog post</a></li><li><a href="https://twitter.com/lorentey/">Karoy Lorentey</a></li><li><a href="https://github.com/apple/swift-atomics">GitHub Repository</a></li><li><a href="https://forums.swift.org/c/related-projects/swift-atomics">Atomics forum</a></li><li><a href="https://news.ycombinator.com/item?id=24657500">Hacker News Discussion</a></li><li><a href="https://github.com/glessard/swift-atomics">Guillaume Lessard’s existing swift-atomics repo</a></li></ul><h3>Sponsors</h3><ul><li><strong>AWS Amplify</strong> - AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a>.</p>
 ]]></description>
       <pubDate>Mon, 2 Nov 2020 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Links</h3><ul><li><a href="https://swift.org/blog/swift-atomics/">Announcement blog post</a></li><li><a href="https://twitter.com/lorentey/">Karoy Lorentey</a></li><li><a href="https://github.com/apple/swift-atomics">GitHub Repository</a></li><li><a href="https://forums.swift.org/c/related-projects/swift-atomics">Atomics forum</a></li><li><a href="https://news.ycombinator.com/item?id=24657500">Hacker News Discussion</a></li><li><a href="https://github.com/glessard/swift-atomics">Guillaume Lessard’s existing swift-atomics repo</a></li></ul><h3>Sponsors</h3><ul><li><strong>AWS Amplify</strong> - AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a>.</p>
 ]]></content:encoded>
       <enclosure length="26140572" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/0d6319c6-d943-4a47-9eb0-cd58829472a8/audio/d75cc258-b633-4807-839b-49c17dc299c1/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>90: Swift Atomics</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:duration>00:27:10</itunes:duration>
       <itunes:summary>Today we talk about the latest Swift open source project, Swift Atomics. The library you shouldn&apos;t use but want to anyway.</itunes:summary>
       <itunes:subtitle>Today we talk about the latest Swift open source project, Swift Atomics. The library you shouldn&apos;t use but want to anyway.</itunes:subtitle>
@@ -100,13 +100,13 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <description><![CDATA[<h2>What’s in a Swift runtime?</h2><ul><li><a href="https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/">Swift on Mac OS 9</a></li><li><a href="https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/">Heap Objects</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Type-Layout/">Type Layout</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Type-Metadata/">Type Metadata</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Uniquing-Caches/">Uniquing Caches</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Class-Metadata/">Class Metadata</a></li><li><a href="https://belkadan.com/blog/2020/10/Swift-Runtime-Class-Metadata-Initialization/">Class Metadata Initialization</a></li></ul><h3>Other links</h3><ul><li><a href="https://forums.swift.org/t/guarantee-in-memory-tuple-layout-or-dont/40122">Layout guarantees</a></li><li><a href="https://www.highcaffeinecontent.com/blog/20150124-MPW,-Carbon-and-building-Classic-Mac-OS-apps-in-OS-X">Steve Troughton-Smith’s BitPaint</a></li><li><a href="https://github.com/ksherlock/mpw">@ksherlock’s mpw</a></li><li><a href="https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html">An explainer on Swift weak references</a></li></ul><h3>About Jordan</h3><ul><li><a href="https://twitter.com/UINT_MIN">Twitter @UINT_MIN</a></li><li><a href="https://belkadan.com">Belkadan</a></li><li><a href="https://citizensclimatelobby.org">Citizens’ Climate Lobby</a></li></ul><h3> </h3><h3>Sponsors</h3><ul><li><strong>Instabug</strong> - Get Application Performance Monitoring built for mobile apps and stay on top of your app quality with Instabug. Check them out and them them know we sent you at <a href="https://try.instabug.com/SwiftUnwrapped">https://try.instabug.com/SwiftUnwrapped</a></li></ul><p> </p><ul><li><strong>AWS Amplify </strong>- AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3> </h3><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a>.</p>
 ]]></description>
       <pubDate>Mon, 12 Oct 2020 18:10:30 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>What’s in a Swift runtime?</h2><ul><li><a href="https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/">Swift on Mac OS 9</a></li><li><a href="https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/">Heap Objects</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Type-Layout/">Type Layout</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Type-Metadata/">Type Metadata</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Uniquing-Caches/">Uniquing Caches</a></li><li><a href="https://belkadan.com/blog/2020/09/Swift-Runtime-Class-Metadata/">Class Metadata</a></li><li><a href="https://belkadan.com/blog/2020/10/Swift-Runtime-Class-Metadata-Initialization/">Class Metadata Initialization</a></li></ul><h3>Other links</h3><ul><li><a href="https://forums.swift.org/t/guarantee-in-memory-tuple-layout-or-dont/40122">Layout guarantees</a></li><li><a href="https://www.highcaffeinecontent.com/blog/20150124-MPW,-Carbon-and-building-Classic-Mac-OS-apps-in-OS-X">Steve Troughton-Smith’s BitPaint</a></li><li><a href="https://github.com/ksherlock/mpw">@ksherlock’s mpw</a></li><li><a href="https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html">An explainer on Swift weak references</a></li></ul><h3>About Jordan</h3><ul><li><a href="https://twitter.com/UINT_MIN">Twitter @UINT_MIN</a></li><li><a href="https://belkadan.com">Belkadan</a></li><li><a href="https://citizensclimatelobby.org">Citizens’ Climate Lobby</a></li></ul><h3> </h3><h3>Sponsors</h3><ul><li><strong>Instabug</strong> - Get Application Performance Monitoring built for mobile apps and stay on top of your app quality with Instabug. Check them out and them them know we sent you at <a href="https://try.instabug.com/SwiftUnwrapped">https://try.instabug.com/SwiftUnwrapped</a></li></ul><p> </p><ul><li><strong>AWS Amplify </strong>- AWS Amplify is a suite of tools and services for iOS developers to build full stack serverless and cloud-based mobile apps. Check out our getting started Tutorial for iOS! Go to <a href="https://aws.amazon.com/getting-started/hands-on/build-ios-app-amplify/">awsamplify.info/IOS</a></li></ul><h3> </h3><h3>Get in Touch</h3><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a>.</p>
 ]]></content:encoded>
       <enclosure length="63787048" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/episodes/4eaaf04a-3e8b-4ab7-96ca-84e0f622062f/audio/92563d7e-1b47-4c64-8aa3-e04013fb02f9/default_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>89: Implementing the Swift Runtime in Swift, with Jordan Rose</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:duration>01:06:22</itunes:duration>
       <itunes:summary>Today we welcome special guest, Jordan Rose to discuss implementing the Swift runtime in Swift.</itunes:summary>
       <itunes:subtitle>Today we welcome special guest, Jordan Rose to discuss implementing the Swift runtime in Swift.</itunes:subtitle>
@@ -121,13 +121,13 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <description><![CDATA[<ul><li><a href="https://swift.org/blog/5-3-release-process/">5.3 release process</a></li><li><a href="https://swift.org/blog/additional-linux-distros/">Swift for Linux distros</a></li><li><a href="https://swift.org/blog/aws-lambda-runtime/">AWS lambda Runtime</a></li><li><a href="https://swift.org/blog/swift-service-lifecycle/">Swift Service Lifecycle</a></li><li><a href="https://swift.org/blog/swift-cluster-membership/">Swift Cluster membership</a></li><li><a href="https://apple.github.io/swift-evolution/#?status=accepted&version=5.3">Proposals accepted/implemented in 5.3</a></li><li><a href="https://github.com/apple/swift/commits/release/5.3">Commit history for Swift 5.3 branch</a></li><li><a href="https://github.com/apple/swift/pull/33487">Mike Ash's perf PR</a></li><li><a href="https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3">Hacking with Swift What’s New in Swift 5.3</a></li></ul><h2>Get in Touch</h2><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 14 Sep 2020 17:26:37 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul><li><a href="https://swift.org/blog/5-3-release-process/">5.3 release process</a></li><li><a href="https://swift.org/blog/additional-linux-distros/">Swift for Linux distros</a></li><li><a href="https://swift.org/blog/aws-lambda-runtime/">AWS lambda Runtime</a></li><li><a href="https://swift.org/blog/swift-service-lifecycle/">Swift Service Lifecycle</a></li><li><a href="https://swift.org/blog/swift-cluster-membership/">Swift Cluster membership</a></li><li><a href="https://apple.github.io/swift-evolution/#?status=accepted&version=5.3">Proposals accepted/implemented in 5.3</a></li><li><a href="https://github.com/apple/swift/commits/release/5.3">Commit history for Swift 5.3 branch</a></li><li><a href="https://github.com/apple/swift/pull/33487">Mike Ash's perf PR</a></li><li><a href="https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3">Hacking with Swift What’s New in Swift 5.3</a></li></ul><h2>Get in Touch</h2><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></content:encoded>
       <enclosure length="17873749" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f66e20f0-f2e0-4aef-953b-3fbf60ea8dc8/88_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>88: Swift 5.3</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:duration>00:18:33</itunes:duration>
       <itunes:summary>Swift 5.3 will be released very soon. What should we expect?</itunes:summary>
       <itunes:subtitle>Swift 5.3 will be released very soon. What should we expect?</itunes:subtitle>
@@ -142,13 +142,13 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <description><![CDATA[<ul><li>Swift Package Index<ul><li><a href="https://iosdevweekly.com/issues/460#comment">Intro</a></li><li><a href="https://swiftpackageindex.com">Website</a></li><li><a href="https://forums.swift.org/t/introducing-the-swift-package-index/37512">Forum</a></li><li><a href="https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server">GitHub</a></li><li><a href="https://github.com/SwiftPackageIndex/PackageList">Package List</a></li><li><a href="https://twitter.com/daveverwer">Dave</a></li><li><a href="https://twitter.com/_sa_s">Sven</a></li><li><a href="https://cocoapods.org">CocoaPods website</a></li></ul></li><li>Swift Package Registry<ul><li><a href="https://forums.swift.org/t/swift-package-registry-service/37219">Swift Package Registry Service Pitch</a><ul><li><a href="https://twitter.com/mattt/status/1278706413921951746">Tweet</a></li></ul></li><li><a href="https://forums.swift.org/t/package-manager-source-archive-dependencies/38626">Package Manager Source Archive Dependencies Pitch</a><ul><li><a href="https://twitter.com/mattt/status/1285966688597315584">Tweet</a></li></ul></li><li><a href="https://twitter.com/mattt">Mattt Thompson</a></li></ul></li></ul><h2>Get in Touch</h2><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 3 Aug 2020 12:00:06 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul><li>Swift Package Index<ul><li><a href="https://iosdevweekly.com/issues/460#comment">Intro</a></li><li><a href="https://swiftpackageindex.com">Website</a></li><li><a href="https://forums.swift.org/t/introducing-the-swift-package-index/37512">Forum</a></li><li><a href="https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server">GitHub</a></li><li><a href="https://github.com/SwiftPackageIndex/PackageList">Package List</a></li><li><a href="https://twitter.com/daveverwer">Dave</a></li><li><a href="https://twitter.com/_sa_s">Sven</a></li><li><a href="https://cocoapods.org">CocoaPods website</a></li></ul></li><li>Swift Package Registry<ul><li><a href="https://forums.swift.org/t/swift-package-registry-service/37219">Swift Package Registry Service Pitch</a><ul><li><a href="https://twitter.com/mattt/status/1278706413921951746">Tweet</a></li></ul></li><li><a href="https://forums.swift.org/t/package-manager-source-archive-dependencies/38626">Package Manager Source Archive Dependencies Pitch</a><ul><li><a href="https://twitter.com/mattt/status/1285966688597315584">Tweet</a></li></ul></li><li><a href="https://twitter.com/mattt">Mattt Thompson</a></li></ul></li></ul><h2>Get in Touch</h2><p>If you're enjoying the show and want to say thank you, the best way to do that is by <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">leaving us a review on iTunes</a>! It lets us know what you think of the show and helps us climb the charts so other people can find the show.</p><p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></content:encoded>
       <enclosure length="34345134" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b6787f56-3a6d-43cb-884e-820a1028bba1/87_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>87: Package Registries and Indexes</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:35:42</itunes:duration>
       <itunes:summary>There&apos;s a lot happening recently in the world of package managers, registries and indexes. Let&apos;s unwrap that.</itunes:summary>
@@ -164,13 +164,13 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
       <description><![CDATA[<h4>SE-0282 Tuples conform to Equatable, Comparable, and Hashable</h4><ul><li>Acceptance: <a href="https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658">https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658</a></li><li>Review: <a href="https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140">https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140</a></li><li>Proposal: <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0283-tuples-are-equatable-comparable-hashable.md">https://github.com/apple/swift-evolution/blob/master/proposals/0283-tuples-are-equatable-comparable-hashable.md</a></li></ul><p>Bow: <a href="https://bow-swift.io">https://bow-swift.io</a></p><h3>👋 Get in Touch</h3><p>We are <a href="https://twitter.com/swift_unwrapped">@swift_unwrapped</a> on twitter. Follow us, ask us a question, let us know what you think of the show! If you want to follow us individually, we're <a href="https://twitter.com/jesse_squires">@jesse_squires</a> and <a href="https://twitter.com/simjp">@simjp</a>.</p><h3>🖤 Leave A Review</h3><p>If you're enjoying the show. The best and easiest way to show your support is by heading over to iTunes and leaving us a review! Not only do you let us know what you like about the show, but you're also helping other Swift language folks find the show.</p><p>Head over to our <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes page</a> to share your opinion of the show!</p>
 ]]></description>
       <pubDate>Thu, 18 Jun 2020 12:00:04 +0000</pubDate>
-      <author>shows@spec.fm (Spec Network, Inc.)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h4>SE-0282 Tuples conform to Equatable, Comparable, and Hashable</h4><ul><li>Acceptance: <a href="https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658">https://forums.swift.org/t/accepted-se-0283-tuples-conform-to-equatable-comparable-and-hashable/36658</a></li><li>Review: <a href="https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140">https://forums.swift.org/t/se-0283-tuples-conform-to-equatable-comparable-and-hashable/36140</a></li><li>Proposal: <a href="https://github.com/apple/swift-evolution/blob/master/proposals/0283-tuples-are-equatable-comparable-hashable.md">https://github.com/apple/swift-evolution/blob/master/proposals/0283-tuples-are-equatable-comparable-hashable.md</a></li></ul><p>Bow: <a href="https://bow-swift.io">https://bow-swift.io</a></p><h3>👋 Get in Touch</h3><p>We are <a href="https://twitter.com/swift_unwrapped">@swift_unwrapped</a> on twitter. Follow us, ask us a question, let us know what you think of the show! If you want to follow us individually, we're <a href="https://twitter.com/jesse_squires">@jesse_squires</a> and <a href="https://twitter.com/simjp">@simjp</a>.</p><h3>🖤 Leave A Review</h3><p>If you're enjoying the show. The best and easiest way to show your support is by heading over to iTunes and leaving us a review! Not only do you let us know what you like about the show, but you're also helping other Swift language folks find the show.</p><p>Head over to our <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes page</a> to share your opinion of the show!</p>
 ]]></content:encoded>
       <enclosure length="38973156" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/641073f1-f00c-4303-b83d-140a78ceab87/project-86v2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>86: Tuples</itunes:title>
-      <itunes:author>Spec Network, Inc.</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:32</itunes:duration>
       <itunes:summary>Is it pronounced &quot;Tuple&quot; or &quot;Tuple&quot;?</itunes:summary>
@@ -200,7 +200,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Head over to our <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes page</a> to share your opinion of the show!</p>
 ]]></description>
       <pubDate>Tue, 3 Mar 2020 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Foundation on Windows: https://forums.swift.org/t/swift-soars-ever-higher/34036</li>
@@ -220,7 +220,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="12276069" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8f254c9e-ffbc-438c-850e-2c09480eb5a5/85-swiftonwindowsv2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>85: Swift on Windows and other news</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:summary>Swift Foundation is now building on Windows and passing all tests, interop with C++ is being discussed on the forums, and new Swift libraries are available.</itunes:summary>
@@ -250,7 +250,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Head over to our <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes page</a> to share your opinion of the show!</p>
 ]]></description>
       <pubDate>Mon, 3 Feb 2020 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Magic file names: https://github.com/apple/swift-evolution/blob/master/proposals/0274-magic-file.md</li>
@@ -270,7 +270,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="31512580" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/34c97512-6201-477a-a478-b74d6ac2a7fd/84-swiftworldtour_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>84: Swift World Tour 2020</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:45</itunes:duration>
       <itunes:summary>We discuss recent news, evolution proposals, and Swift 6</itunes:summary>
@@ -293,7 +293,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 6 Jan 2020 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://forums.swift.org/t/modify-accessors/31872">Forum post</a></li>
@@ -306,7 +306,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="30742914" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/94ee22bc-9244-4aea-9145-d1b776f3888e/83-modifyaccessors_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>83: Modify Accessors</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:summary>We discuss a recent Swift Evolution pitch from Ben Cohen on Modify Accessors.</itunes:summary>
@@ -335,7 +335,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 2 Dec 2019 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>The way Swift reports compilation diagnostics like errors, warnings and fixits is about to improve in Swift 5.2.</p>
 <ul>
@@ -354,7 +354,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="34621040" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/2c2ea7b8-9cd0-45ff-bae2-966977d4ab74/82_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>82: Swift&apos;s New Diagnostic Architecture</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:36:00</itunes:duration>
       <itunes:summary>The way Swift reports compilation diagnostics like errors, warnings and fixits is about to improve in Swift 5.2.</itunes:summary>
@@ -385,7 +385,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 4 Nov 2019 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Would you like some Swift in your Swift? The compiler driver is getting a shiny new implementation in Swift and there's no shortage of opportunities to contribute.</p>
 <ul>
@@ -406,7 +406,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="25413788" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5136fbe5-9c97-4779-a22b-6fe5b2961229/81_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>81: Swift Compiler Driver</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:24</itunes:duration>
       <itunes:summary>Would you like some Swift in your Swift? The compiler driver is getting a shiny new implementation in Swift and there&apos;s no shortage of opportunities to contribute.</itunes:summary>
@@ -437,7 +437,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 7 Oct 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>The Swift of tomorrow... today! The Standard Library Preview Package would allow you to try out upcoming Swift features before they officially ship with new language versions.</p>
 <ul>
@@ -458,7 +458,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="28708165" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/9e3c7017-37a3-4f34-9f94-c4cbccc1871c/80_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>80: Standard Library Preview Package</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:50</itunes:duration>
       <itunes:summary>The Swift of tomorrow... today! The Standard Library Preview Package would allow you to try out upcoming Swift features before they officially ship with new language versions.</itunes:summary>
@@ -486,7 +486,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 16 Sep 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Burritos: https://github.com/guillermomuntaner/Burritos</li>
@@ -504,7 +504,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="50234723" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e4296fcf-b739-4226-9cdd-1cdaf34bae5c/79_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>79: Swift 5.1 with Doug Gregor</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:52:16</itunes:duration>
       <itunes:summary>We invite special guest, Doug Gregor, back to the show to discuss all things Swift 5.1</itunes:summary>
@@ -532,7 +532,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 2 Sep 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Forum pitch: https://forums.swift.org/t/pitch-support-for-binary-dependencies/27620</li>
@@ -550,7 +550,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="28831488" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e3a1605d-aa61-483c-b135-dd39c75bc077/78_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>78: Binary Dependencies in Swift Package Manager</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:58</itunes:duration>
       <itunes:summary>What&apos;s one feature missing from the Swift Package Manager that CocoaPods has had for years? Binary dependencies! But how would this work in SPM?</itunes:summary>
@@ -581,7 +581,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 5 Aug 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0246-mathable.md">Proposal SE-0246</a></li>
@@ -602,7 +602,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="24446216" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a6992481-1ec7-4d05-a4d2-1d57cd6f520a/77_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>77: Generic Math Functions and Approximate Equality</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:summary>We discuss the new generic math functions coming to Swift, as well as approximate equality for floating point numbers.</itunes:summary>
@@ -641,7 +641,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 1 Jul 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0258-property-wrappers.md">Proposal SE-0258</a></li>
@@ -670,7 +670,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="30380815" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/234e904c-9511-47ee-9fa8-658b58c60878/76_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>76: Property Wrappers</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:34</itunes:duration>
       <itunes:summary>A concept that&apos;s been in and out of conversation for Swift since 2015, property behaviors - uh, delegates - uh, wrappers - are now back with the full weight of SwiftUI behind it.</itunes:summary>
@@ -706,7 +706,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Sun, 2 Jun 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Links</h2>
 <ul>
@@ -732,7 +732,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="26943019" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/bad49a09-7e7d-442f-984f-3234da02fa5a/75-build-systems-w-keith-smiley_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>75: Swift Build Systems w/ Keith Smiley</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:summary>In this episode with special guest Keith Smiley, we cover the growing number of  tools that let you build things in Swift, a few of which are made by Apple, as well as some others like CMake, Bazel and Buck.</itunes:summary>
@@ -770,7 +770,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 6 May 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
@@ -798,7 +798,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="33463274" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/6a1f3e80-2343-4c5e-ac0e-53a8ceea62b5/74_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>74: Removing Things From Swift</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:34:47</itunes:duration>
       <itunes:summary>Although we usually discuss new features being added to Swift, this episode is all about removing things from the language.</itunes:summary>
@@ -832,7 +832,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 1 Apr 2019 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
@@ -856,7 +856,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="25377849" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7e3b0edd-7187-4200-93a7-fb04b40598cf/project-73_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>73: UTF-8 Strings in Swift 5</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:22</itunes:duration>
       <itunes:summary></itunes:summary>
@@ -895,7 +895,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 4 Mar 2019 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
@@ -924,7 +924,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="38831987" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/187ac56a-0044-47bb-bd37-cf08d274ae77/72-official-styleguide-and-formatter_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>72: Pitch for Official Style Guide &amp; Formatter for Swift</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:22</itunes:duration>
       <itunes:summary>In what is sure to lead to significant community discussion, there&apos;s now a pitch for adding a style guide and formatter to Swift.
@@ -966,7 +966,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 4 Feb 2019 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
@@ -996,7 +996,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="27475088" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b06bf92c-00f5-48d3-bb43-b3eaae14c4fd/71-key-path-expressions-as-functional-dependencies_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>71: Key Path Expressions as Functions</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:28:33</itunes:duration>
       <itunes:summary>If this proposal is accepted, we&apos;ll be seeing Key Paths in a lot more places.</itunes:summary>
@@ -1031,7 +1031,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 7 Jan 2019 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h2>Relevant Links</h2>
 <ul>
@@ -1056,7 +1056,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="19523053" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8cdd945e-9641-42a4-a8ba-7b79fc8f3404/70-sourcekit-lsp_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>70: SourceKit-LSP</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:20:16</itunes:duration>
       <itunes:summary>The Swift project is working on official support for the industry-standard Language Server Protocol and we can barely contain our excitement.</itunes:summary>
@@ -1081,7 +1081,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 3 Dec 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0235-add-result.md">Proposal</a></li>
@@ -1096,7 +1096,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="24471594" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/43ae0c67-df77-48fb-8591-b7595e53661e/69-proposal-to-add-restult_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>69: Result</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:summary>It&apos;s the most wonderful time of the year again... the time when the Swift community considers adding a Result type to the standard library. Except that this time it&apos;ll probably work!</itunes:summary>
@@ -1121,7 +1121,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Now, Swift Unwrapped listeners will get a free t-shirt when they sign up at <a href="https://instabug.com/swift">https://instabug.com/swift</a>.</p>
 ]]></description>
       <pubDate>Mon, 5 Nov 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://forums.swift.org/t/opaque-result-types/15645</li>
@@ -1136,7 +1136,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="15809542" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/033cae49-ad27-456e-b678-c2c062191461/68-opaque-result-types_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>68: Opaque Result Types</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:16:24</itunes:duration>
       <itunes:summary>In this episode, Jesse and JP dive in to opaque result types, which could help prevent leaking of implementation details to library consumers.</itunes:summary>
@@ -1164,7 +1164,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Now, Swift Unwrapped listeners will get a free t-shirt when they sign up at <a href="https://instabug.com/swift">https://instabug.com/swift</a>.</p>
 ]]></description>
       <pubDate>Mon, 15 Oct 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0200-raw-string-escaping.md">SE-0200 Enhancing String Literals Delimiters to Support Raw Text</a></li>
@@ -1182,7 +1182,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="27169628" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/41fe97d1-9d3e-43a5-9691-25bdd82c0779/67-raw-string_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>67: Raw Strings</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:summary>String literals are the gift that keep on giving with each Swift version, and Swift 5 is no exception, with raw strings.</itunes:summary>
@@ -1206,7 +1206,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Now, Swift Unwrapped listeners will get a free t-shirt when they sign up at <a href="https://instabug.com/swift">https://instabug.com/swift</a>.</p>
 ]]></description>
       <pubDate>Mon, 20 Aug 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://forums.swift.org/t/plan-for-module-stability/14551</li>
@@ -1220,7 +1220,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="32794939" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8ba0546f-7f40-4469-a211-1027b5ac86e2/project-66_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>66: Plan For Module Stability</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:34:06</itunes:duration>
       <itunes:summary>We discuss Jordan Rose&apos;s recent forums post on a proposed plan for module stability.</itunes:summary>
@@ -1243,7 +1243,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 2 Jul 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><a href="https://github.com/apple/swift-evolution/blob/master/proposals/0213-literal-init-via-coercion.md">SE-0213: Literal initialization via coercion</a></li>
@@ -1256,7 +1256,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="9516326" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/a79347e7-d080-48db-9e7a-dec3f1426db5/65-literal-initialization-via-coercion_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>65: Literal Initialization Via Coercion</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:09:50</itunes:duration>
       <itunes:summary>A recent type checking speedup had very small source compatibility breakages, but nonetheless went through the evolution process and it was accepted!</itunes:summary>
@@ -1280,7 +1280,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 25 Jun 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><code>Never</code> &amp; <code>absurd()</code>: https://twitter.com/pteasima/status/978325590397906944</li>
@@ -1294,7 +1294,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="30937092" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f7b9fbd4-a09e-4457-9abe-39458e2dcebe/64-never_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>64: Never</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:summary>The Never type has some very unique properties and behavior. We introduce the type and discuss a recent proposal (SE-215) to make it conform to Hashable and Equatable.</itunes:summary>
@@ -1320,7 +1320,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 18 Jun 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Data Structures and Algorithms in Swift: https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift</li>
@@ -1336,7 +1336,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="43470224" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5dcadaf5-0987-4564-9ed9-c21e5e94dcbf/61-swift-algorithms-and-data-structures-with-kelvin-lau-and-vincent-ngo_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>63: Swift algorithms and data structures (feat. Kelvin Lau &amp; Vincent Ngo)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:45:12</itunes:duration>
       <itunes:summary>We welcome Kelvin and Vincent to the show to discuss Data Structures and Algorithms in Swift.</itunes:summary>
@@ -1358,7 +1358,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Wed, 13 Jun 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Ted Kremenek on Twitter: https://twitter.com/tkremenek</li>
@@ -1370,7 +1370,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="47236284" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/e58dbe9c-430e-48e5-8444-65f5d2da5100/ted-kremenek_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>62: Interview with Ted Kremenek</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:49:08</itunes:duration>
       <itunes:summary>An in-depth conversation about Swift 4.2 and beyond with Ted Kremenek, Manager of the Languages and Runtimes team at Apple.</itunes:summary>
@@ -1396,7 +1396,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 11 Jun 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>This episode is a little different, where we discuss general announcements from WWDC 2018 not just limited to the Swift language. With special guest Greg Heo.</p>
 <ul>
@@ -1412,7 +1412,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="41929152" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4420cdd7-d9ec-4285-b5fe-6811040df5c8/61-greg-heo-swiftunwrapped_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>61: WWDC reactions with Greg Heo</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:43:36</itunes:duration>
       <itunes:summary>We discuss the announcements from WWDC 2018 with special guest, Greg Heo.</itunes:summary>
@@ -1442,7 +1442,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 28 May 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Forums:</p>
 <ul>
@@ -1462,7 +1462,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="17403646" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/ec245c2f-8cc8-45ee-ac90-c66da8811a30/60-character-properties_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>60: Character Properties</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:18:03</itunes:duration>
       <itunes:summary>We discuss recent proposals on adding unicode properties to characters and Unicode.scalar.</itunes:summary>
@@ -1488,7 +1488,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Check them out, use that promo code and get 20% off at <a href="https://instabug.com/swift">https://instabug.com/swift</a></p>
 ]]></description>
       <pubDate>Mon, 21 May 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Links</h3>
 <ul>
@@ -1504,7 +1504,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="23458019" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/9d7fa712-39ad-457a-b090-ff4deabe88a2/59-escaping-closures_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>59: Implicit Escaping of Closures</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:24:22</itunes:duration>
       <itunes:summary>Escaping or non-escaping? That is the question.</itunes:summary>
@@ -1531,7 +1531,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 14 May 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Blog post on Reimplementation of Implicitly Unwrapped Optionals: https://swift.org/blog/iuo</li>
@@ -1548,7 +1548,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="15924548" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/642a1037-d1c2-47a5-9d34-5e0abcb68a77/58-reimplementation-of-implicitly-unwrapped-optionals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>58: Reimplementation of Implicitly Unwrapped Optionals</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:16:31</itunes:duration>
       <itunes:summary>IUOs are dead, long live IUOs! With this change, IUOs are no longer a type but rather a special variant of Optional.</itunes:summary>
@@ -1581,7 +1581,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 7 May 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://github.com/tensorflow/swift/blob/master/docs/DesignOverview.md</li>
@@ -1604,7 +1604,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="39065281" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d987c101-6a78-4ae8-80c7-295b7ca5fad8/57-revisiting-tensorflow_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>57: Swift for TensorFlow Design Overview</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:37</itunes:duration>
       <itunes:summary>Now that Swift for TensorFlow has been open sourced and documentation is available, we share some very interesting findings.</itunes:summary>
@@ -1629,7 +1629,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 30 Apr 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0206-hashable-enhancements.md</li>
@@ -1644,7 +1644,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="18527126" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5c213281-9104-498d-be10-d15b64a7b59f/56-se-206-hashable-enhancements_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>56: SE-206 Hashable Enhancements</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:19:13</itunes:duration>
       <itunes:summary>Swift will soon have a more robust hashing strategy, and it doesn&apos;t involve always returning zero for hashValue.</itunes:summary>
@@ -1671,7 +1671,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 23 Apr 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Proposal: https://github.com/apple/swift-evolution/blob/master/proposals/0202-random-unification.md</li>
@@ -1688,7 +1688,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="23395003" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/da8a81c5-cf62-46b1-a7c9-1bd1e5844933/55-se-202-random-unification_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>55: SE-202 Random Unification</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:24:18</itunes:duration>
       <itunes:summary>Randomness gets a long overdue Swift treatment.</itunes:summary>
@@ -1714,7 +1714,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>We've also got a channel set up on Spectrum.chat! If you want to talk about today's episode, ask us a question or just follow the conversation, jump in anytime at: <a href="https://spectrum.chat/specfm/swift-unwrapped">spectrum.chat/specfm/swift-unwrapped</a></p>
 ]]></description>
       <pubDate>Mon, 16 Apr 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://github.com/apple/swift-evolution/blob/master/proposals/0197-remove-where.md</li>
@@ -1730,7 +1730,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="22850920" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b6a3fd5d-8692-48cc-a41b-752782516396/54-collection-sequence-proposals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>54: Collection &amp; Sequence Proposals</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:23:44</itunes:duration>
       <itunes:summary>We cover a few recent Collection &amp; Sequence Swift Evolution proposals.</itunes:summary>
@@ -1755,7 +1755,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Check them out and let them know we sent you at <a href="https://www.bitrise.io/?utm_source=swift_unwrapped_spec&amp;utm_medium=podcast&amp;utm_campaign=w15">Bitrise.io</a></p>
 ]]></description>
       <pubDate>Mon, 9 Apr 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://www.tensorflow.org/</li>
@@ -1770,7 +1770,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="20855561" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/699546bf-f16a-49ed-bb6a-079ef994eb9d/53-swift-for-tensorflow_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>53: Swift for TensorFlow</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:21:39</itunes:duration>
       <itunes:summary>It happened. Google forked Swift. Swift for Tensorflow has wide-reaching implications and we just had to share our thoughts.</itunes:summary>
@@ -1793,7 +1793,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Thanks to this episode's sponsor, <a href="https://kobiton.com/swift/?utm_source=Swift_Unwrapped_Podcast&amp;utm_medium=Podcast&amp;utm_campaign=3.20_Swift_Unwrapped_Podcast&amp;utm_content=Free_iPhone_X">Kobiton</a>. Go to <a href="https://kobiton.com/swift/?utm_source=Swift_Unwrapped_Podcast&amp;utm_medium=Podcast&amp;utm_campaign=3.20_Swift_Unwrapped_Podcast&amp;utm_content=Free_iPhone_X">Kobiton.com/swift</a> and get your extra trial minutes!</p>
 ]]></description>
       <pubDate>Mon, 2 Apr 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>We cover two recent Swift Package Manager proposal pitches.</p>
 <ul>
@@ -1806,7 +1806,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="21807266" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/60121283-ed97-4b30-92e1-934aaa46a06f/52_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>52: Package Manager Proposals</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:38</itunes:duration>
       <itunes:summary>We cover two recent Swift Package Manager proposal pitches.</itunes:summary>
@@ -1831,7 +1831,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Please leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join the conversation at http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 26 Mar 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Conditional conformance: https://swift.org/blog/conditional-conformance/</li>
@@ -1846,7 +1846,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="30822268" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b0d0ed63-d512-4910-8a6d-9ad8670be908/51-doug-and-ben-part-2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>51: Swift 4.1 w/ Doug &amp; Ben (part 2)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:summary>We go over the Swift 4.1 release highlights with Ben Cohen and Doug Gregor from the Swift team. Part 2 of 2.</itunes:summary>
@@ -1871,7 +1871,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Please leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join the conversation at http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 19 Mar 2018 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Conditional conformance: https://swift.org/blog/conditional-conformance/</li>
@@ -1886,7 +1886,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="18147541" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/c9bed05a-df75-499f-b04c-b27aec4d8e84/50-doug-and-ben-part-1_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>50: Swift 4.1 w/ Doug &amp; Ben (part 1)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:18:50</itunes:duration>
       <itunes:summary>We go over the Swift 4.1 release highlights with Ben Cohen and Doug Gregor from the Swift team. Part 1 of 2.</itunes:summary>
@@ -1907,7 +1907,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 5 Mar 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>In Today's episode we share thoughts on Dave DeLong's &quot;protocol wishlist&quot; for Swift and other ideas for improving Swift's protocols.</p>
 <ul>
@@ -1918,7 +1918,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="34113985" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/eedb656b-9197-47aa-b979-f53b4770bb04/49-swift-unwrapped-protocols-wishlist_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>49: Swift Protocol Wishlist</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:47:17</itunes:duration>
       <itunes:summary>Thoughts on Dave DeLong&apos;s &quot;protocol wishlist&quot; for Swift and other ideas for improving Swift&apos;s protocols.</itunes:summary>
@@ -1940,7 +1940,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 26 Feb 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Announcement on Swift Forums: https://forums.swift.org/t/swift-to-participate-in-gsoc-2018/10147</li>
@@ -1952,7 +1952,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="32448949" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/be309391-e715-4edf-a57f-4feb95fd5858/48-googlesummerofcode_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>48: Google Summer Of Code 2018</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:44</itunes:duration>
       <itunes:summary>Swift.org is officially participating in the Google Summer of Code program, and there are some great project ideas.</itunes:summary>
@@ -1981,7 +1981,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 19 Feb 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>
@@ -2000,7 +2000,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="19570846" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/2a5c9ab9-ecd1-4211-a3b1-569ccf7775e0/47-revamp-playgrounds_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>47: Revamping QuickLook Playground APIs</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:20:19</itunes:duration>
       <itunes:summary>We discuss Connor Wakamo&apos;s proposal to revamp the Playground QuickLook APIs</itunes:summary>
@@ -2029,7 +2029,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 12 Feb 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>
@@ -2048,7 +2048,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="14696554" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f3757aca-5b46-47a1-9135-a162dd64c141/46-new-proposals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>46: Restricting cross-module struct initializers</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:15:14</itunes:duration>
       <itunes:summary>We discuss Jordan Rose&apos;s proposal to address issues with struct initializers</itunes:summary>
@@ -2084,7 +2084,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Please leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join the conversation at http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 5 Feb 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li><code>Sequence.split</code> should have a Lazy equivalent: <a href="https://bugs.swift.org/browse/SR-6691">SR-6691</a></li>
@@ -2110,7 +2110,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="25112089" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/225c62f6-62e0-4424-bad7-dd230e0b831a/45-recent-news_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>45: Swift News January 2018</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:05</itunes:duration>
       <itunes:summary>The pace is picking up early 2018, so there&apos;s a lot to cover.</itunes:summary>
@@ -2130,7 +2130,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Please leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join the conversation at http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 29 Jan 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://www.jessesquires.com/blog/swift-weekly-brief-hiatus/</li>
@@ -2140,7 +2140,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="11442722" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/88f0889d-a510-44c4-ab0f-559355cf98c2/44-swift-weekly-brief_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>44: Swift Bi-Weekly Brief</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:11:51</itunes:duration>
       <itunes:summary>The King is dead, long live the King!</itunes:summary>
@@ -2161,7 +2161,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Please leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join the conversation at http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 22 Jan 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>State of String: ABI, Performance, Ergonomics, and You! https://gist.github.com/milseman/bb39ef7f170641ae52c13600a512782f</li>
@@ -2172,7 +2172,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="23289325" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d4cf620f-3176-479f-bc09-cbcdc8b650db/43-stateofstring_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>43: State of String</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:24:11</itunes:duration>
       <itunes:summary>We dissect Michael Ilseman&apos;s recent document with potential optimizations and improvements to String in preparation for ABI stability.</itunes:summary>
@@ -2198,7 +2198,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Please leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join the conversation at http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 15 Jan 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Swift 4.1 will include support for conditional protocol conformance, and we're excited to use it!</p>
 <ul>
@@ -2214,7 +2214,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="13334811" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7ac06d5e-4a1d-4a81-a03d-b486d4b40223/42-roadmaping_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>42: Conditional Conformance</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:13:49</itunes:duration>
       <itunes:summary>Swift 4.1 will include support for conditional protocol conformance, and we&apos;re excited to use it!</itunes:summary>
@@ -2235,7 +2235,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 8 Jan 2018 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Graydon Hoare’s swift-dev email: https://lists.swift.org/pipermail/swift-dev/Week-of-Mon-20171113/006001.html</li>
@@ -2246,7 +2246,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="22725539" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d3ee70a2-1165-4329-8998-b82296006fe0/41-improving-performance_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>41: Improving Compilation Performance</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:23:36</itunes:duration>
       <itunes:summary>We discuss the recent efforts improving &amp; instrumenting the Swift compiler&apos;s performance.</itunes:summary>
@@ -2278,7 +2278,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 18 Dec 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Introduce User-defined &quot;Dynamic Member Lookup&quot; Types:
@@ -2300,7 +2300,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="20788733" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/8a89de6b-42e8-4fde-b723-1d284960eb75/40-dynamic-number-lookup-proposal_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>40: Dynamic Member Lookup Proposal</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:21:35</itunes:duration>
       <itunes:summary>We discuss Chris Lattner&apos;s recent &quot;Dynamic Member Lookup&quot; proposal.</itunes:summary>
@@ -2322,7 +2322,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 11 Dec 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://bugs.swift.org/browse/SR-4981</li>
@@ -2334,7 +2334,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="25085608" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3e80f055-47d1-4a5f-a17c-46daae9e28fc/39-swift-source-compatibility-suite_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>39: Source Compatibility Suite Woes</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:summary>The source compatibility suite has been useful in catching compatibility issues before official Swift releases are cut, but it leaves much to be desired especially around communication with project maintainers outside Apple.</itunes:summary>
@@ -2364,7 +2364,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 4 Dec 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Enable core dumps: <code>ulimit -c unlimited</code></li>
@@ -2384,7 +2384,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="22720383" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3b3a3df2-823c-44f1-a729-b71332353d91/38-data-bases-concurrency-threading_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>38: Off to the Races</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:23:35</itunes:duration>
       <itunes:summary>Think thread safety with Swift is the same as C languages, with slightly different syntax? Think again!</itunes:summary>
@@ -2406,7 +2406,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2">iTunes</a> and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 27 Nov 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Original proposal: https://github.com/apple/swift-evolution/pull/114</li>
@@ -2418,7 +2418,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="22068053" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0c2522ea-b3c8-4d72-a96b-653fdee6a484/37-enum-case-enumerable-proposal_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>37: Enum Case Enumerable Proposal</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:55</itunes:duration>
       <itunes:summary>Enumerate. All. The. Cases.</itunes:summary>
@@ -2444,7 +2444,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 </ul>
 ]]></description>
       <pubDate>Mon, 13 Nov 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Float80 Corrections: https://mobile.twitter.com/daniel_dunbar/status/923694549238611970</li>
@@ -2460,7 +2460,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="19230976" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3ff00000-92a9-44e0-9f7a-f19dc57e3162/36-swift-evolution-topics_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>36: Swift Evolution - Current Topics &amp; Proposals</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:19:57</itunes:duration>
       <itunes:summary>Brief discussion around some recent proposals.</itunes:summary>
@@ -2491,7 +2491,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on iTunes and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 30 Oct 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>JP's FrenchKit talk on &quot;Performance Profiling Swift on Linux&quot;:
@@ -2512,7 +2512,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="32007984" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/da4542a6-eb11-4838-b2e6-aec756244292/35-performance-profiling-on-linux_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>35: Performance Profiling on Linux</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:16</itunes:duration>
       <itunes:summary>How do you even profile without Instruments.app?</itunes:summary>
@@ -2535,7 +2535,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on iTunes and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 23 Oct 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/</li>
@@ -2548,7 +2548,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="21278522" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f00dfd79-3a7e-46aa-9ac5-d0147cf8597e/34-floating-point_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>34: Floating-Point</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:05</itunes:duration>
       <itunes:summary>We discuss Swift’s numeric protocols and types, especially those of the floating point variety.</itunes:summary>
@@ -2586,7 +2586,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on iTunes and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 16 Oct 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Server APIs Project: https://swift.org/server-apis/</li>
@@ -2614,7 +2614,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="18088665" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b535714c-2b4b-4d7e-88d8-d0bb05e85431/33-http_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>33: HTTP server v0.1.0</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:18:46</itunes:duration>
       <itunes:summary>We discuss the first release of the HTTP server library from the Swift Server APIs project.</itunes:summary>
@@ -2639,7 +2639,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>Leave a review on iTunes and join http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 9 Oct 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>https://swift.org/migration-guide-swift4/</li>
@@ -2654,7 +2654,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="21464943" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7ba08528-4152-4f09-a9f3-22e7beb20dab/32-migratingtoswift4_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>32: Migrating to Swift 4</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:22:17</itunes:duration>
       <itunes:summary>Since many of you are probably migrating to Swift 4 as you listen to this, we figured we&apos;d share our thoughts on the transition.</itunes:summary>
@@ -2689,7 +2689,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 <p>If you're ready for free a continuous integration, continuous deployment, and user feedback platform for iOS and Android development teams - give them a try at <a href="https://www.buddybuild.com/?utm_source=podcast&amp;utm_medium=banner&amp;utm_campaign=swift_unwrapped&amp;utm_term=swift%20unwrapped">buddybuild.com</a> and let them know we sent you!</p>
 ]]></description>
       <pubDate>Mon, 2 Oct 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Measuring Swift compile times in Xcode 9: https://www.jessesquires.com/blog/measuring-compile-times-xcode9/</li>
@@ -2714,7 +2714,7 @@ Thanks to all our listeners, guests, sponsors and the Spec network for supportin
 ]]></content:encoded>
       <enclosure length="24146990" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/319089de-aa5f-4d6c-892b-024e060eea48/31-compiletime_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>31: Compile Times</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:25:05</itunes:duration>
       <itunes:summary>We share our tips for measuring &amp; improving Swift compilation times, as well as share some news about recent efforts to test compile times within the Swift repo.</itunes:summary>
@@ -2735,7 +2735,7 @@ https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2</p>
 http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></description>
       <pubDate>Mon, 25 Sep 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Friday Q&amp;A:<br />
 https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html</p>
@@ -2746,7 +2746,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="30301872" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/ce4dca05-3f4f-4c2d-8e41-8e5ded7eee7c/30-weak-references-mike-ash_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>30: Weak References with Mike Ash</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:29</itunes:duration>
       <itunes:summary>We welcome Mike Ash to the show to discuss the implementation details of weak references in Swift and how they&apos;ve changed.</itunes:summary>
@@ -2769,7 +2769,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 18 Sep 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>iPhone X keynote + GM seeds for Xcode 9, Swift 4</li>
@@ -2782,7 +2782,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="31753901" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/d6039571-6970-4994-b8d9-75d73748aa26/29-technology_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>29: Notes from Ted Kremenek, Recent Proposals &amp; Xcode 9 GM</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:00</itunes:duration>
       <itunes:summary>We discuss some recent Swift Evolution proposals, Xcode 9 GM, along with a boatload of Follow Up (tm) from Ted Kremenek and Pierre Habouzit.</itunes:summary>
@@ -2812,7 +2812,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to BuddyBuild for sponsoring this episode: https://www.buddybuild.com/?utm_source=podcast&amp;utm_medium=banner&amp;utm_campaign=swift_unwrapped&amp;utm_term=swift%20unwrapped</p>
 ]]></description>
       <pubDate>Mon, 11 Sep 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Swift.org blog post on Swift Local Refactoring: https://swift.org/blog/swift-local-refactoring/</li>
@@ -2832,7 +2832,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="31734595" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/942f3e25-a7d6-4dbf-8b62-3326253070ba/28-refactoring-engine_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>28: Refactoring Engine</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:59</itunes:duration>
       <itunes:summary>All about the recent refactoring pieces announced at WWDC 2017 and open sourced in the last few months.</itunes:summary>
@@ -2871,7 +2871,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 4 Sep 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Please take a minute to leave <a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203">a review on iTunes</a> and <a href="http://spectrum.chat/specfm/swift-unwrapped">join us on Spectrum chat</a> if you'd like to discuss the show.</p>
 <ul>
@@ -2900,7 +2900,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="57295173" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/af11f028-e749-46e7-915d-1a2d1529b939/27-chris-lattner_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>27: Concurrency with Chris Lattner</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:59:36</itunes:duration>
       <itunes:summary>We welcome Chris Lattner to the show to discuss concurrency in Swift 5 and beyond!</itunes:summary>
@@ -2920,7 +2920,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Please take a minute to leave a review on iTunes (https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203) and join us on http://spectrum.chat/specfm/swift-unwrapped if you'd like to discuss the show.</p>
 ]]></description>
       <pubDate>Mon, 28 Aug 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Mailing List: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170807/038645.html</li>
@@ -2930,7 +2930,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="33417241" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b307fe79-65a0-4293-a524-d0e5e89d123c/26-swift5_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>26: Swift 5 Goals</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:34:44</itunes:duration>
       <itunes:summary>We share our thoughts on the newly announced goals for Swift 5.</itunes:summary>
@@ -2951,7 +2951,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Please take a minute to leave a review on iTunes (https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203) and join us on http://spectrum.chat/specfm/swift-unwrapped if you'd like to discuss the show.</p>
 ]]></description>
       <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
@@ -2962,7 +2962,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="25114944" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5b31a287-ea14-436c-8d8d-4516731b2661/25-abi-stability-calling-convention-runtime-and-standard-library_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>25: ABI Stability –  Calling Convention, Runtime and Standard Library</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:05</itunes:duration>
       <itunes:summary>The fourth and final episode in our series on ABI Stability, we cover the remaining categories of decisions that must be made to stabilize the ABI.</itunes:summary>
@@ -2985,7 +2985,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Please take a minute to leave a review on iTunes (https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203) and join us on http://spectrum.chat/specfm/swift-unwrapped if you'd like to discuss the show.</p>
 ]]></description>
       <pubDate>Mon, 14 Aug 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Twitter thread on source stability discussion for episode 22: https://twitter.com/swift_unwrapped/status/892023116377075712</li>
@@ -2998,7 +2998,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="32570478" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/bdc44b4f-6b68-4c2f-bfed-a61b1b8dfc93/24-abi-stability-mangling_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>24: ABI Stability - Mangling</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:33:51</itunes:duration>
       <itunes:summary>Continuing our series on ABI Stability with a third installment, we focus on the mangling component and address some past mistakes.</itunes:summary>
@@ -3027,7 +3027,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, <a href="https://www.buddybuild.com/?utm_source=podcast&amp;utm_medium=banner&amp;utm_campaign=swift_unwrapped&amp;utm_term=swift%20unwrapped">Buddy Build</a>: a continuous integration, continuous deployment and user feedback platform built specifically for mobile development teams. Try it out today FREE: https://www.buddybuild.com</p>
 ]]></description>
       <pubDate>Mon, 7 Aug 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
@@ -3046,7 +3046,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="36135284" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/64f4054e-fe7f-407a-90e9-54c1b42afa65/23-abi-data-layout_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>23: ABI Stability – Data Layout and Metadata</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:34</itunes:duration>
       <itunes:summary>Following last week&apos;s episode on the big picture of ABI Stability, we focus on two categories of decisions that need to happen to get there: data layout and metadata.</itunes:summary>
@@ -3066,7 +3066,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 31 Jul 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>ABI Stability Manifesto: https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md</li>
@@ -3076,7 +3076,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="36902185" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/96281bdf-d8a7-42b6-adc1-4d6cdc3ad58a/22-abi-stability_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>22: ABI Stability – The Big Picture</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:38:22</itunes:duration>
       <itunes:summary>We clear up some of the misconceptions around what ABI stability means, how we&apos;ll get there and why it&apos;s important.</itunes:summary>
@@ -3098,7 +3098,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Bug of the week (sandboxing!): <a href="https://bugs.swift.org/browse/SR-5491">SR-549</a>, <a href="https://bugs.swift.org/browse/SR-5061">SR-5061</a></li>
@@ -3110,7 +3110,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="26235023" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0420d3d2-6780-4313-a5b2-a77b6732d4eb/21-newproposals_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>21: New Proposals</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:summary>This week we dive into some of the recent proposals, including SE-0180, SE-0181, SE-0182, SE-0183</itunes:summary>
@@ -3131,7 +3131,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 17 Jul 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Bug of the week: https://bugs.swift.org/browse/SR-4088</li>
@@ -3142,7 +3142,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="28326384" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/6bd2a1e4-241b-40fb-9bb2-c3c5fe470fb3/20-swift-migrator_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>20: Swift Migrator</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:26</itunes:duration>
       <itunes:summary>We dissect the newly open sourced part of Swift tooling that helps us port our apps to the latest Swift version.</itunes:summary>
@@ -3164,7 +3164,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 10 Jul 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Improvement of the week: https://github.com/apple/swift-package-manager/pull/1249</li>
@@ -3176,7 +3176,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="30979470" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0cc3b9b4-fe77-4261-8b07-7121aa70d8fa/22_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>19: WWDC Reactions</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:42:56</itunes:duration>
       <itunes:summary>A month after WWDC, we share our thoughts on the announcements and events from the week.</itunes:summary>
@@ -3204,7 +3204,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 3 Jul 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>SipHash: https://github.com/lorentey/SipHash</li>
@@ -3222,7 +3222,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="36266469" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4e4a91d7-9e9c-45be-b4fd-cd1a76ee9d6e/18-oss-spotlight_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>18: Community Open Source Spotlight</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:42</itunes:duration>
       <itunes:summary>Taking a break from Swift itself, we shine the spotlight on the open source community and highlight some lesser-known open source Swift projects that we think are interesting!</itunes:summary>
@@ -3259,7 +3259,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, <a href="http://buddybuild.com">Buddy Build</a>: A continuous integration, continuous deployment, and user feedback platform for iOS and Android development teams. Try it out today FREE: http://buddybuild.com</p>
 ]]></description>
       <pubDate>Mon, 26 Jun 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Testing Swift: https://github.com/apple/swift/blob/master/docs/Testing.rst</li>
@@ -3286,7 +3286,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="29883396" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4fddc14c-1844-486b-a289-d1162f2e176f/17-swift-testing_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>17: Testing Swift</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:summary>Exploring the many different ways in which the Swift compiler is tested.</itunes:summary>
@@ -3308,7 +3308,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 19 Jun 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Error Handling: https://github.com/apple/swift/blob/master/docs/ErrorHandling.rst</li>
@@ -3320,7 +3320,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="34711245" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/3c876c5d-2686-4b2c-94c0-b722f643dbcb/16-error-handling_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>16: Error Handling in Swift — A History</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:36:05</itunes:duration>
       <itunes:summary>The state of error handling in Swift and a brief history on how we got here, as well as comparisons to Objective-C.</itunes:summary>
@@ -3347,7 +3347,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 12 Jun 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>What should you expect with Swift 4?</h3>
 <p>Some great new features and improvements.</p>
@@ -3364,7 +3364,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="29425349" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/401a9081-0886-4643-a347-2f2a20f6b384/16-what-is-new-with-swift-4-part-2_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>15: What&apos;s New in Swift 4 (Part 2)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:30:35</itunes:duration>
       <itunes:summary>Part two of our discussion on the new features and improvements in Swift 4! There were so many great things to discuss, we needed two episodes!</itunes:summary>
@@ -3394,7 +3394,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, <a href="http://buddybuild.com">Buddy Build</a>: A continuous integration, continuous deployment, and user feedback platform for iOS and Android development teams.</p>
 ]]></description>
       <pubDate>Mon, 5 Jun 2017 12:52:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>What should you expect with Swift 4?</h3>
 <p>Some great new features and improvements.</p>
@@ -3414,7 +3414,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="25065199" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/c73ea98e-f98e-4448-8bf2-67adcf036bca/14-what-is-new-with-swift-4-part-1_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>14: What&apos;s New in Swift 4 (Part 1)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:02</itunes:duration>
       <itunes:summary>We discuss some of the new features and improvements in Swift 4!</itunes:summary>
@@ -3454,7 +3454,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Start a 15 day free trial today at https://kobiton.com/swiftunwrapped.</p>
 ]]></description>
       <pubDate>Mon, 29 May 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>SwiftPM iOS
@@ -3484,7 +3484,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="26505038" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/b678161c-f1c3-48f9-bc6f-da9aff44f2b4/13-wwdcpredictions_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>13: WWDC Predictions</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:summary>We share our hopes &amp; expectations for the Swift language at WWDC 2017.</itunes:summary>
@@ -3512,7 +3512,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Start a 15 day free trial today at https://kobiton.com/swiftunwrapped.</p>
 ]]></description>
       <pubDate>Mon, 22 May 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Moving to Discourse, email from Ted: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170206/031657.html</li>
@@ -3530,7 +3530,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="25803701" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/03e313d9-9a1d-4efd-884a-e95ba545ad61/12-swift-evolution_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>12: Swift Evolution</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:summary>We debate if Swift evolution is pulling its weight, and if it&apos;s possible for Swift to remain &quot;open&quot; without  the cost.</itunes:summary>
@@ -3560,7 +3560,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Try it free today at https://www.buddybuild.com/.</p>
 ]]></description>
       <pubDate>Mon, 15 May 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>Manifesto: https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md</li>
@@ -3580,7 +3580,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="28006354" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/23ea43f5-838e-4cb4-a9e5-4db00048b40b/11-the-ownership-manifesto_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>11: Ownership Manifesto</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:06</itunes:duration>
       <itunes:summary>A brief overview of the complex topic of memory ownership revisions currently underway.</itunes:summary>
@@ -3622,7 +3622,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, PerfectlySoft. Find tutorials and other content at http://perfect.org/learn.html</p>
 ]]></description>
       <pubDate>Mon, 8 May 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h1>SE-0168: Multi-line strings</h1>
 <ul>
@@ -3654,7 +3654,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="34485470" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/40579ec4-0543-4028-b5e4-57c06a3457e9/10_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>10: The Variety Show</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:47:48</itunes:duration>
       <itunes:summary>We cover 3 recent Swift Evolution proposals and the new Swift Compatibility Test Suite.</itunes:summary>
@@ -3689,7 +3689,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, PerfectlySoft. Find tutorials and other content at http://perfect.org/learn.html</p>
 ]]></description>
       <pubDate>Mon, 1 May 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<ul>
 <li>String Manifesto: https://github.com/apple/swift/blob/master/docs/StringManifesto.md</li>
@@ -3714,7 +3714,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="37404160" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/29d93d56-01d6-427f-8b9b-61fb5e5928ea/09-string-manifesto_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>09: String Manifesto</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:38:53</itunes:duration>
       <itunes:summary>We go in way over our heads into Swift&apos;s String Manifesto.</itunes:summary>
@@ -3760,7 +3760,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, PerfectlySoft. Download the Perfect Assistant for free at http://perfect.org/en/assistant/</p>
 ]]></description>
       <pubDate>Mon, 24 Apr 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h1>SE-0166: Swift Archival &amp; Serialization</h1>
 <ul>
@@ -3796,7 +3796,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="28843306" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/7abb2eb7-a74f-4eef-b2af-19b360ce9afe/08-proposalreviews_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>08: Archival Serialization &amp; Swift Encoders</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:59</itunes:duration>
       <itunes:summary>We unpack the recent SE proposals on serialization &amp; encoding.</itunes:summary>
@@ -3836,7 +3836,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, PerfectlySoft. Download the Perfect Assistant for free at http://perfect.org/en/assistant/</p>
 ]]></description>
       <pubDate>Mon, 17 Apr 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Access Control Roller Coaster</h3>
 <ul>
@@ -3866,7 +3866,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="36506140" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/f4d33606-5e7d-45c0-baab-16265528d571/07-access-control_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>07: Access Control - The Saga Continues</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:57</itunes:duration>
       <itunes:summary>There has been a ton of debate on the Swift Evolution mailing lists about access control in Swift. We share our thoughts on the situation.</itunes:summary>
@@ -3905,7 +3905,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Thanks to this episode's sponsor, PerfectlySoft. Download the Perfect Assistant for free at http://perfect.org/en/assistant/</p>
 ]]></description>
       <pubDate>Mon, 10 Apr 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<h3>Swift 3.1 Release</h3>
 <ul>
@@ -3934,7 +3934,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="43065997" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/43598351-fe72-46a5-ac3c-c1fe7619094c/06-swift-3-1-release_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>06: Swift 3.1 Release &amp; SwiftPM Improvements</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:44:47</itunes:duration>
       <itunes:summary>This week we celebrate the release of Swift 3.1 and the large set of improvements to SwiftPM that happened just under the wire.</itunes:summary>
@@ -3981,7 +3981,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 3 Apr 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>There's been a much stronger focus on calling ObjC from Swift than the other way around, but in this talk we'll cover both directions and the parts of the Swift language involved in the process.</p>
 <h3>ObjC Interop Overview</h3>
@@ -4018,7 +4018,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="39221495" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4d4cb17a-c90c-4e34-8d11-6e0170c1b839/05-objectivec-interop_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>05: Objective-C Interoperability</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:40:47</itunes:duration>
       <itunes:summary>Continuing from episode 4&apos;s take on Objective-C Bridging, in this episode we look at Objective-C interoperability.</itunes:summary>
@@ -4051,7 +4051,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Swift has evolved since 1.x to have a fluctuating amount of magic/implicit bridging from ObjC and Foundation types, sometimes going in the opposite direction towards very explicit type conversions.</p>
 <p>We've started seeing more of what the &quot;steady state&quot; looks like as Swift 3.x/4.x development matures.</p>
@@ -4074,7 +4074,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="28658447" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/924a610c-8d9a-466b-8e39-2ce293908cf4/04-bridging-with-objective-c_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>04: Bridging with Objective-C</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:39:43</itunes:duration>
       <itunes:summary>There&apos;s been a constant push and pull on ObjC bridging since Swift 1.x, trying to seek a balance but always swaying in the other direction.</itunes:summary>
@@ -4139,7 +4139,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 20 Mar 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>Every Swift developer who has migrated code bases from Swift 1.x to 2.x, or even the more tedious 2.x to 3.x knows the pain of migrating to new Swift versions.</p>
 <p>In this episode, we cover:</p>
@@ -4194,7 +4194,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="28533506" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/666053de-af16-4453-bbe1-0c3f1c434846/03-source-stability_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>03: Source Stability (What is a Source Breaking Change?)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:29:39</itunes:duration>
       <itunes:summary>The up (and down) sides of striving for source compatibility across Swift versions. Let&apos;s rearrange some deck chairs!</itunes:summary>
@@ -4246,7 +4246,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 13 Mar 2017 12:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>In this episode, we dive into the framework we love to hate to love: SourceKit.</p>
 <p>We wrap up with an overview of method dispatch in Swift.</p>
@@ -4288,7 +4288,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="31277368" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/0a8f7b8f-2786-4ee1-8d05-903664172bbd/02-sourcekit_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>02: SourceKit (Compiling by Default)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:32:31</itunes:duration>
       <itunes:summary>The tumultuous tales of the community getting SourceKit compiling on Linux.</itunes:summary>
@@ -4325,7 +4325,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 </ul>
 ]]></description>
       <pubDate>Mon, 6 Mar 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>In this episode we take a look at the first full year of open source Swift development and the first complete release cycle (for 3.0) that happened completely in the open. We reflect on where we've been and how we got here. We discuss the initial launch, Swift evolution, the &quot;Great Swift 3 Migration&quot;, and more!</p>
 <ul>
@@ -4352,7 +4352,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="36189257" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/5ef79daf-bbc9-4654-a335-0f4f7c02bd61/01-already-only_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>01: Already &amp; Only (Swift Open Source Year in Review)</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:37:38</itunes:duration>
       <itunes:summary>A retrospective on one year of open source Swift.</itunes:summary>
@@ -4371,7 +4371,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 <p>Be sure to subscribe so you don't miss episode 01 -  airing on Monday, March 6th and be sure to check out some of the other development shows that are a part of the <a href="https://spec.fm/">Spec Network</a>.</p>
 ]]></description>
       <pubDate>Fri, 24 Feb 2017 13:00:00 +0000</pubDate>
-      <author>shows@spec.fm (Spec)</author>
+      <author>JP Simard, Jesse Squires, Spec Network, Inc.</author>
       <link>https://swiftunwrapped.github.io</link>
       <content:encoded><![CDATA[<p>There are tons of podcasts out there about general Apple/iOS/macOS development but nothing specifically about only the Swift programming language.</p>
 <p>So, we decided to make a podcast about the Swift language and a commentary on the <a href="https://swiftweekly.github.io/">Swift Weekly Brief</a>. This podcast is a continuation on more details about Swift Weekly and our own thoughts on Swift news.</p>
@@ -4380,7 +4380,7 @@ http://spectrum.chat/specfm/swift-unwrapped</p>
 ]]></content:encoded>
       <enclosure length="2640439" type="audio/mpeg" url="https://cdn.simplecast.com/audio/c0a958/c0a958c6-59dd-45ad-b246-1b7a1a9e51f6/4ae1942a-835e-4096-a3b1-da86ddc3c902/00-swift-unwrapped_tc.mp3?aid=rss_feed&amp;feed=3pGv88mm"/>
       <itunes:title>00: And We&apos;re Live!</itunes:title>
-      <itunes:author>Spec</itunes:author>
+      <itunes:author>JP Simard, Jesse Squires, Spec Network, Inc.</itunes:author>
       <itunes:image href="https://swiftunwrapped.github.io/img/logo.jpg"/>
       <itunes:duration>00:02:41</itunes:duration>
       <itunes:summary>Welcome to Swift Unwrapped!
